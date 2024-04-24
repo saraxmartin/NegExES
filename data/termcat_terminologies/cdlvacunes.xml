@@ -1,0 +1,1556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cessiodades>
+  <autor>TERMCAT, Centre de Terminologia</autor>
+  <titol>Terminologia de les vacunes</titol>
+  <fitxes>
+    <fitxa num="1">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[anticòs]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="abrev." categoria="n m"><![CDATA[Ac]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[anticuerpo]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="abrev." categoria="n m"><![CDATA[Ac]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[anticorps]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="abrev." categoria="n m"><![CDATA[Ac]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[antibody]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="abrev." categoria="n"><![CDATA[Ab]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Immunoglobulina secretada per les cèl·lules plasmàtiques en resposta a l'estimulació exercida per un antigen, al qual és capaç d'unir-se de manera específica.]]></definicio>
+    </fitxa>
+    <fitxa num="2">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[adjuvant]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[adyuvante]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[inmunopotenciador]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[adjuvant]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[adjuvant]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Substància que, administrada conjuntament amb un antigen, facilita o augmenta la resposta immunitària contra aquest antigen.]]></definicio>
+    </fitxa>
+    <fitxa num="3">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[anergia]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[anergia]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[anergie]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[anergy]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Manca de resposta immunitària contra un antigen.]]></definicio>
+    </fitxa>
+    <fitxa num="4">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[antigen]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="abrev." categoria="n m"><![CDATA[Ag]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[antígeno]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="abrev." categoria="n m"><![CDATA[Ag]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[antigène]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="abrev." categoria="n m"><![CDATA[Ag]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[antigen]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="abrev." categoria="n"><![CDATA[Ag]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Molècula capaç de produir una resposta immunitària en l'organisme.]]></definicio>
+    </fitxa>
+    <fitxa num="5">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[calendari de vacunacions]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n m"><![CDATA[calendari vacunal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[calendario de vacunación]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[calendario de vacunaciones]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[calendario vacunal]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[calendrier de vaccination]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immunization schedule]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccination schedule]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Seqüència cronològica d'administració de les vacunes sistemàtiques en un país o regió amb l'objectiu d'obtenir una immunització adequada de la població davant les malalties per a les quals es disposa d'una vacuna eficaç.]]></definicio>
+    </fitxa>
+    <fitxa num="6">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[campanya de vacunació]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[campanya vacunal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[campaña de vacunación]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[campaña vacunal]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[campagne de vaccination]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immunization campaign]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccination campaign]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Campanya de salut pública consistent a vacunar de manera massiva un grup de població contra una malaltia determinada en un període de temps breu.]]></definicio>
+    </fitxa>
+    <fitxa num="7">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[carnet de vacunacions]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n m"><![CDATA[carnet vacunal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[carné de vacunación]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[carné de vacunas]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[carnet de vaccination]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[dossier d'immunisation]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[fiche d'immunisation]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immunization record]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccination record]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Document on es fan constar les dosis de les diferents vacunes administrades a una persona, amb la data d'administració, el nom i el codi de lot de cada vacuna i altres informacions relatives a la seva administració.]]></definicio>
+    </fitxa>
+    <fitxa num="8">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[càrrega antigènica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[carga antigénica]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[charge antigénique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[antigenic load]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Quantitat d'antigen que conté una vacuna.]]></definicio>
+    </fitxa>
+    <fitxa num="9">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[cobertura de vacunació]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[cobertura vacunal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[cobertura de vacunación]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[cobertura vacunal]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[couverture de vaccination]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[couverture vaccinale]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immunization coverage]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccin coverage]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccination coverage]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Proporció de persones de la població diana vacunades contra una malaltia determinada en un moment o període concret.]]></definicio>
+    </fitxa>
+    <fitxa num="10">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[dosi de record]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[dosi de reforç]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[dosis de recuerdo]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[dosis de refuerzo]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[dose de rappel]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[dose de réactivation]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[booster]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[booster dose]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Dosi addicional d'una vacuna que s'administra amb l'objectiu d'augmentar i prolongar l'efecte immunitari de la dosi o de les dosis administrades en la primovacunació.]]></definicio>
+    </fitxa>
+    <fitxa num="11">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[efectivitat vacunal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[efectividad vacunal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[eficacia vacunal real]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[effectivité vaccinale]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccine effectiveness]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Grau en què una vacuna produeix l'efecte desitjat en la població diana quan s'aplica en les condicions reals de la pràctica clínica habitual.]]></definicio>
+    </fitxa>
+    <fitxa num="12">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[eficàcia vacunal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[eficacia vacunal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[eficacia vacunal teórica]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[efficacité vaccinale]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccinal efficacy]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccine efficacy]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Grau en què una vacuna produeix l'efecte desitjat quan s'aplica en condicions experimentals.]]></definicio>
+    </fitxa>
+    <fitxa num="13">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[eficiència vacunal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[eficiencia vacunal]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[efficience vaccinale]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccinal efficiency]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Relació que s'estableix entre el cost econòmic que comporta l'administració d'una vacuna i la seva efectivitat.]]></definicio>
+    </fitxa>
+    <fitxa num="14">
+      <areatematica><![CDATA[Conceptes generals > Epidemiologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[eliminació]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[eliminación]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[élimination]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[elimination]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Supressió d'una malaltia infecciosa en un territori determinat.]]></definicio>
+    </fitxa>
+    <fitxa num="15">
+      <areatematica><![CDATA[Conceptes generals > Epidemiologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[eradicació]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[erradicación]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[éradication]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[eradication]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Supressió d'una malaltia infecciosa a escala mundial.]]></definicio>
+    </fitxa>
+    <fitxa num="16">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[estratègia del niu]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[estrategia del nido]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacunación del nido]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[stratégie du cocooning]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vaccination familiale]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[cocoon strategy]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[cocooning]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Estratègia de protecció d'un nadó contra determinades malalties infeccioses des del moment del naixement, consistent a vacunar-ne la família directa, principalment la mare, o persones de l'entorn proper amb l'objectiu de disminuir el risc de transmissió d'aquestes malalties en el seu entorn.]]></definicio>
+    </fitxa>
+    <fitxa num="17">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[fallada vacunal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[fallo vacunal]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[échec vaccinal]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccine failure]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Situació en què una persona desenvolupa una malaltia contra la qual havia estat vacunada.]]></definicio>
+    </fitxa>
+    <fitxa num="18">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[fallada vacunal primària]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[fallo vacunal primario]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[échec vaccinal primaire]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[primary vaccine failure]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[PVF]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Fallada vacunal en una persona que no genera resposta immunitària després de l'administració d'una vacuna.]]></definicio>
+    </fitxa>
+    <fitxa num="19">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[fallada vacunal secundària]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[fallo vacunal secundario]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[échec vaccinal secondaire]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[secondary vaccine failure]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[SVF]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Fallada vacunal en una persona que, malgrat haver generat resposta immunitària després de l'administració d'una vacuna, ha perdut immunitat amb el pas del temps.]]></definicio>
+    </fitxa>
+    <fitxa num="20">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj"><![CDATA[immune]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[inmune]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[immun -une]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[immune]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Que posseeix immunitat.]]></definicio>
+    </fitxa>
+    <fitxa num="21">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[immunitat]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunité]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immunity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Resistència congènita o adquirida d'un organisme contra una malaltia infecciosa o un antigen determinat.]]></definicio>
+    </fitxa>
+    <fitxa num="22">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[immunitat activa]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad activa]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunité active]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[active immunity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Immunitat adaptativa resultant del contacte amb un antigen, ja sigui per un procés natural, com una infecció, o per un procés artificial, com la vacunació.]]></definicio>
+    </fitxa>
+    <fitxa num="23">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[immunitat adaptativa]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[immunitat adquirida]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad adaptativa]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad adquirida]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunité acquise]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunité adaptative]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[acquired immunity]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[adaptive immunity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Immunitat específica produïda després del contacte amb un antigen o bé transferida mitjançant anticossos.]]></definicio>
+    </fitxa>
+    <fitxa num="24">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[immunitat de grup]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[immunitat col·lectiva]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[immunitat de comunitat]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad colectiva]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad de comunidad]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad de grupo]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunité collective]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunité de groupe]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[community immunity]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[herd immunity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Immunitat específica d'un nombre prou gran de persones d'una comunitat, que disminueix el risc de contagi entre les persones susceptibles.]]></definicio>
+    </fitxa>
+    <fitxa num="25">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[immunitat específica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad específica]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunité spécifique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[specific immunity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Immunitat contra un patogen concret, que comporta el reconeixement específic d'un antigen.]]></definicio>
+    </fitxa>
+    <fitxa num="26">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[immunitat inespecífica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad inespecífica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad no específica]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunité non spécifique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[nonspecific immunity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Immunitat contra qualsevol patogen, que no comporta el reconeixement específic d'un antigen i es manifesta sempre de la mateixa manera.]]></definicio>
+    </fitxa>
+    <fitxa num="27">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[immunitat innata]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[immunitat natural]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad genética]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad innata]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad natural]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunité innée]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunité naturelle]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[innate immunity]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[native immunity]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[natural immunity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Immunitat inespecífica deguda al conjunt de defenses que una persona, d'acord amb la seva composició genètica, posseeix abans de l'exposició a un antigen i que no s'incrementa com a resultat de l'exposició repetida a aquest antigen.]]></definicio>
+    </fitxa>
+    <fitxa num="28">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[immunitat passiva]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunidad pasiva]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunité passive]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[passive immunity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Immunitat adaptativa resultant de la transferència d'anticossos d'una persona immune a una altra de no immune, ja sigui per un procés natural, com ara la transferència d'anticossos de la mare al fetus a través de la placenta o de la mare al nounat a través del calostre, o per un procés artificial, com ara la injecció d'anticossos d'un donant a un receptor.]]></definicio>
+    </fitxa>
+    <fitxa num="29">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[immunització]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunización]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunisation]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immunisation]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immunization]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Acció d'immunitzar.]]></definicio>
+    </fitxa>
+    <fitxa num="30">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacunació]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[immunització activa]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vaccinació]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunización activa]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacunación]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunisation active]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vaccination]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[active immunization]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccination]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Acció de vacunar.]]></definicio>
+    </fitxa>
+    <fitxa num="31">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="v tr"><![CDATA[immunitzar]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="v tr"><![CDATA[inmunizar]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="v tr"><![CDATA[immuniser]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="v tr"><![CDATA[immunise, to]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="v tr"><![CDATA[immunize, to]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Fer esdevenir immune una persona mitjançant l'administració d'un antigen que li produeixi una resposta immunitària o d'un anticòs que li proporcioni immunitat passiva.]]></definicio>
+    </fitxa>
+    <fitxa num="32">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj"><![CDATA[immunogen -ògena]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[inmunogénico -ca]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[inmunógeno -na]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[immunogène]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[immunogenic]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Dit de la substància que produeix immunitat específica.]]></definicio>
+    </fitxa>
+    <fitxa num="33">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[immunogenicitat]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunogenicidad]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunogénicité]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immunogenicity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Capacitat d'un antigen per a produir una resposta immunitària.]]></definicio>
+    </fitxa>
+    <fitxa num="34">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[immunoglobulina]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="abrev." categoria="n f"><![CDATA[Ig]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[inmunoglobulina]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="abrev." categoria="n f"><![CDATA[Ig]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[immunoglobuline]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="abrev." categoria="n f"><![CDATA[Ig]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immunoglobulin]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="abrev." categoria="n"><![CDATA[Ig]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Proteïna present en el sèrum i en altres fluids corporals que participa en la resposta immunitària.]]></definicio>
+    </fitxa>
+    <fitxa num="35">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[malaltia immunoprevenible]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[malaltia vacunable]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[enfermedad inmunoprevenible]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[enfermedad prevenible por vacunación]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[enfermedad vacunable]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[maladie à prévention vaccinale]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[maladie évitable par la vaccination]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccinable disease]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccine-preventable disease]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[VPD]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Malaltia infecciosa contra la qual existeix una vacuna preventiva.]]></definicio>
+    </fitxa>
+    <fitxa num="36">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[memòria immunitària]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[memoria inmunitaria]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[memoria inmunológica]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[mémoire immunologique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immunological memory]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Capacitat adquirida per un organisme, com a conseqüència del contacte amb un antigen, per a respondre amb més rapidesa i eficàcia a un contacte posterior amb el mateix antigen.]]></definicio>
+    </fitxa>
+    <fitxa num="37">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[pauta de vacunació accelerada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[pauta de vacunación acelerada]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[schéma de vaccination accélérée]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[schéma vaccinal accéléré]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[accelerated immunization schedule]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[accelerated vaccination schedule]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Règim d'administració d'una vacuna en què el nombre de dosis o l'interval entre dosis és menor que el que es determina en la pauta de vacunació estàndard d'aquella vacuna.]]></definicio>
+    </fitxa>
+    <fitxa num="38">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[pauta de vacunació]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[pauta vacunal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[pauta de vacunación]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[pauta vacunal]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[schéma de vaccination]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[schéma vaccinal]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immunization schedule]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccination schedule]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Règim d'administració d'una vacuna, en relació amb el nombre de dosis i l'interval d'administració de cada dosi.]]></definicio>
+    </fitxa>
+    <fitxa num="39">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[població diana]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[població objectiu]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[población destinataria]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[población diana]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[población objetivo]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[population cible]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[target population]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Grup de persones per al qual està indicada una vacuna determinada.]]></definicio>
+    </fitxa>
+    <fitxa num="40">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[primovacunació]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacunació primària]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[primovacunación]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[primo-vaccination]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vaccination primaire]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[primary immunization]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[primary vaccination]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Administració de la dosi inicial o del conjunt de dosis inicials d'una vacuna a una persona susceptible amb l'objectiu que adquireixi una immunitat adequada contra la malaltia o les malalties que combat la vacuna.]]></definicio>
+    </fitxa>
+    <fitxa num="41">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[programa de vacunació]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n m"><![CDATA[programa vacunal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[programa de inmunización]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[programa de vacunación]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[programme d'immunisation]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[programme de vaccination]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immunization program]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccination program]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Mesura sanitària d'actuació sobre la comunitat que té per objectiu disminuir o eliminar la presència d'una o diverses malalties infeccioses.]]></definicio>
+    </fitxa>
+    <fitxa num="42">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[punt d'injecció]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n m"><![CDATA[punt d'inoculació]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[lugar de inyección]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[punto de inoculación]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[punto de inyección]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[point d'injection]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[point d'inoculation]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[site d'injection]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[injection site]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[site of injection]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[site of inoculation]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Punt anatòmic en què s'injecta una vacuna.]]></definicio>
+    </fitxa>
+    <fitxa num="43">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[reacció adversa a vacuna]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sigla" categoria="n f"><![CDATA[RAV]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[reacción adversa a vacuna]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[RAV]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[réaction indésirable à un vaccin]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccine adverse reaction]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Efecte desfavorable atribuïble a l'administració d'una vacuna<b>.</b>]]></definicio>
+    </fitxa>
+    <fitxa num="44">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[reacció local]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[reacción local]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[réaction locale]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[injection site reaction]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[local reaction]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Reacció a una vacuna que apareix al punt d'injecció, consistent generalment en una inflamació.]]></definicio>
+    </fitxa>
+    <fitxa num="45">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[reacció general]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[reacció sistèmica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[reacción general]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[reacción sistémica]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[réaction générale]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[réaction systémique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[general reaction]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[systemic reaction]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Reacció a una vacuna que afecta l'organisme de manera sistèmica.]]></definicio>
+    </fitxa>
+    <fitxa num="46">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[reactogenicitat]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[reactogenicidad]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[réactogénicité]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[reactogenicity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Capacitat d'una vacuna de produir reaccions adverses.]]></definicio>
+    </fitxa>
+    <fitxa num="47">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[resposta immunitària]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[respuesta inmune]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[respuesta inmunitaria]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[respuesta inmunológica]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[réponse immune]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[réponse immunitaire]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[immune response]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Reacció d'un organisme contra la presència de substàncies estranyes vehiculada per les cèl·lules i les molècules del sistema immunitari.]]></definicio>
+    </fitxa>
+    <fitxa num="48">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[revacunació]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[revaccinació]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[revacunación]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[revaccination]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[revaccination]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Acció de revacunar.]]></definicio>
+    </fitxa>
+    <fitxa num="49">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="v tr"><![CDATA[revacunar]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="v tr"><![CDATA[revaccinar]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="v tr"><![CDATA[revacunar]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="v tr"><![CDATA[revacciner]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="v tr"><![CDATA[revaccinate, to]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Administrar a una persona una vacuna que ja li havia estat administrada en primovacunació.]]></definicio>
+    </fitxa>
+    <fitxa num="50">
+      <areatematica><![CDATA[Conceptes generals > Microbiologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[serogrup]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[serogrupo]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[sérogroupe]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[serogroup]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Grup de bacteris amb un antigen comú, que pot incloure més d'un serotip, d'una espècie o d'un gènere.]]></definicio>
+    </fitxa>
+    <fitxa num="51">
+      <areatematica><![CDATA[Conceptes generals > Microbiologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[serotip]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m"><![CDATA[serotipus]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[serovar]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[serotipo]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[serovariedad]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[tipo serológico]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[variedad serológica]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[sérotype]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[sérovar]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[type sérologique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[serotype]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[serovar]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Subdivisió taxonòmica d'una espècie o d'una subespècie de microorganismes que inclou organismes que tenen algun caràcter antigènic comú.]]></definicio>
+    </fitxa>
+    <fitxa num="52">
+      <areatematica><![CDATA[Conceptes generals > Microbiologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[soca]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[cepa]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[estirpe]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[estirpe celular]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[souche]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[line]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[strain]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Conjunt de microorganismes d'una espècie determinada caracteritzats per algunes particularitats biològiques, les quals permeten distingir-los de la resta de membres de l'espècie però no són suficients perquè constitueixin una subespècie o varietat.]]></definicio>
+    </fitxa>
+    <fitxa num="53">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj"><![CDATA[susceptible]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[susceptible]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[susceptible]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[susceptible]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Que no presenta immunitat contra una malaltia infecciosa determinada.]]></definicio>
+    </fitxa>
+    <fitxa num="54">
+      <areatematica><![CDATA[Conceptes generals > Immunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[títol d'anticossos]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[título]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[título de anticuerpos]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[titre]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[titre d'anticorps]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[antibody titer]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[antibody titre]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[titer]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[titre]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Estimació semiquantitativa de la concentració d'anticossos en una mostra de sang.]]></definicio>
+    </fitxa>
+    <fitxa num="55">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[toxoide]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[anatoxina]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[anatoxina]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[toxoide]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[anatoxine]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[toxoïde]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[anatoxin]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[toxoid]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Toxina bacteriana modificada per l'acció d'agents físics o químics, que ha perdut les propietats tòxiques però conserva les propietats antigèniques capaces de generar immunitat activa.]]></definicio>
+    </fitxa>
+    <fitxa num="56">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m"><![CDATA[vaccí]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Preparat antigènic que s'utilitza amb finalitat preventiva o terapèutica per a provocar immunitat activa contra una possible infecció o contra altres malalties.]]></definicio>
+    </fitxa>
+    <fitxa num="57">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="v tr"><![CDATA[vacunar]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="v tr"><![CDATA[vaccinar]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="v tr"><![CDATA[vacunar]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="v tr"><![CDATA[vacciner]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="v tr"><![CDATA[vaccinate, to]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Administrar a una persona una vacuna.]]></definicio>
+    </fitxa>
+    <fitxa num="58">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna adjuvada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna adyuvada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna adyuvantada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna con adyuvante]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna potenciada]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin adjuvanté]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin adjuvé]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin avec adjuvant]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[adjuvanted vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna que conté un adjuvant, amb la finalitat d'augmentar la immunogenicitat de l'antigen.]]></definicio>
+    </fitxa>
+    <fitxa num="59">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna adsorbida]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna adsorbida]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin adsorbé]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[adsorbe vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna adjuvada en què l'antigen està fixat a la superfície de l'adjuvant, amb la finalitat de millorar la immunogenicitat de l'antigen.]]></definicio>
+    </fitxa>
+    <fitxa num="60">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-encefalitis centreeuropea]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra l’encefalitis centreeuropea]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna ECE]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la encefalitis centroeuropea]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la encefalitis por garrapatas]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre l'encéphalite à tiques]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[tick-borne encephalitis vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="61">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-encefalitis japonesa]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra l'encefalitis japonesa]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna EJ]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la encefalitis japonesa]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre l'encéphalite japonaise]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[Japanese encephalitis vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="62">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-grip A(H1N1)]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la grip A(H1N1)]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antigripal A/H1N1]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna H1N1]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin anti-H1N1]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la grippe pandémique A (H1N1)]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[H1N1 vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[influenza A (H1N1) vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="63">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-grip A(H5N1)]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la grip A(H5N1)]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antigripal A/H5N1]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna H5N1]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin anti-H5N1]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la grippe pandémique A (H5N1)]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[H5N1 vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[influenza A (H5N1) vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="64">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-<i>Haemophilus influenzae</i> tipus b conjugada]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra <i>Haemophilus influenzae </i>tipus b conjugada]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna Hib]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna conjugada anti-<i>Haemophilus influenzae</i> tipo b]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna Hib]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[Hib]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin conjugué anti-<i>Haemophilus influenzae</i> type b]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin conjugué contre <i>Haemophilus influenzae</i> type b]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin Hib]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[Hib]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[<i>Haemophilus influenzae</i> type b conjugate vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[Hib vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[Hib]]></denominacio>
+    </fitxa>
+    <fitxa num="65">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-hepatitis A i B]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra les hepatitis A i B]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna HAB]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antihepatítica A+B]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[HAB]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre les hépatites A et B]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin HAB]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[hepatitis A and B vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[HepA-HepB]]></denominacio>
+    </fitxa>
+    <fitxa num="66">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-herpes zòster]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra l'herpes zòster]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna HZ]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el herpes zóster]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre l'herpès zoster]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre le zona]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[herpes zoster vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[shingles vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[varicella zoster vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[HZV]]></denominacio>
+    </fitxa>
+    <fitxa num="67">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-meningococ A conjugada]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el meningococ A conjugada]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna MA]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antimeningocócica A conjugada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[MenA]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antiméningococcique A conjugué]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[meningococcal A conjugate vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[MenA]]></denominacio>
+    </fitxa>
+    <fitxa num="68">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-virus del papil·loma humà]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el virus del papil·loma humà]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna VPH]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el virus del papiloma humano]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna VPH]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre le papillomavirus humain]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre le virus du papillome humain]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin VPH]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[HPV vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[human papillomavirus vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[human wart virus vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[HPV]]></denominacio>
+    </fitxa>
+    <fitxa num="69">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-virus del papil·loma humà nonavalent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el virus del papil·loma humà nonavalent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna VPH9]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna nonavalente contra el virus del papiloma humano]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VPH-9]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[human papillomavirus 9-valent vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[9vHPV]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[HPV9]]></denominacio>
+    </fitxa>
+    <fitxa num="70">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-virus del papil·loma humà tipus 16 i 18]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el virus del papil·loma humà tipus 16 i 18]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna VPH2]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna bivalente contra el virus del papiloma humano]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VPH-2]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin bivalent contre le virus du papillome humain]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin VPH2]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[human papillomavirus bivalent vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[2vHPV]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[HPV2]]></denominacio>
+    </fitxa>
+    <fitxa num="71">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques atenuades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antiamaríl·lica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la febre groga]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna FG]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antiamarílica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la fiebre amarilla]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin anti-amaril]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antiamaril]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la fièvre jaune]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[FJ]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[yellow fever vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="72">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anticolèrica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el còlera]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna C]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anticolérica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el cólera]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin anticholérique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[cholera vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="73">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antidiftèrica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la diftèria]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m"><![CDATA[toxoide diftèric]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[toxoide diftérico]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antidiftérica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la difteria]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antidiphtérique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[diphtheria toxoid]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[diphtheria vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="74">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antigripal]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la grip]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna G]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antigripal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la gripe]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antigrippal]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[flu vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[influenza vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[influenza virus vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="75">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antimeningocòccica conjugada tetravalent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el meningococ conjugada tetravalent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna MACWY]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antimeningocócica tetravalente]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[MenACWY]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antiméningococcique tétravalent]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[tetravalent meningococcal vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[MCV4]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[MenACWY]]></denominacio>
+    </fitxa>
+    <fitxa num="76">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antipertússica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la tos ferina]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antitosferínica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la tos ferina]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin anticoqueluche]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin anticoquelucheux]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la coqueluche]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[pertussis vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[whooping cough vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="77">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antipneumocòccica conjugada 13-valent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el pneumococ conjugada 13-valent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna Pn13]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antineumocócica conjugada 13-valente]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antineumocócica conjugada tridecavalente]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VNC13]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antipneumococcique conjugué 13-valent]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[Pn13]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[VPC13]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[13-valent pneumococcal conjugate vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[PCV13]]></denominacio>
+    </fitxa>
+    <fitxa num="78">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antipneumocòccica conjugada decavalent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el pneumococ conjugada decavalent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna Pn10]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antineumocócica conjugada 10-valente]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antineumocócica conjugada decavalente]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VNC10]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antipneumococcique conjugué 10-valent]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[Pn10]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[VPC10]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[10-valent pneumococcal conjugate vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[PCV10]]></denominacio>
+    </fitxa>
+    <fitxa num="79">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antipneumocòccica conjugada heptavalent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el pneumococ conjugada heptavalent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna Pn7]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antineumocócica conjugada 7-valente]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antineumocócica conjugada heptavalente]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VNC7]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antipneumococcique conjugué heptavalent]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[Pn7]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[VPC7]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[heptavalent pneumococcal conjugate vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[7-valent pneumococcal conjugate vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[PCV7]]></denominacio>
+    </fitxa>
+    <fitxa num="80">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques atenuades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antirubeòlica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la rubèola]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antirrubeólica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la rubéola]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antirubéoleux]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antirubéolique]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la rubéole]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[rubella vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[rubella virus vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="81">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes atenuades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antituberculosa]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la tuberculosi]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna BCG]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antituberculosa]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna BCG]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la tuberculosis]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna de Calmette-Guérin]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antituberculeux]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin BCG]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la tuberculose]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[bacillus Calmette-Guérin vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[BCG vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[tuberculosis vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[BCG]]></denominacio>
+    </fitxa>
+    <fitxa num="82">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques atenuades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antivaricel·losa]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la varicel·la]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna V]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antivaricela]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antivaricelosa]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la varicela]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[Var]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antivaricelle]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antivaricelleux]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la varicelle]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[varicella vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[VAR]]></denominacio>
+    </fitxa>
+    <fitxa num="83">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques atenuades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antixarampionosa, antirubeòlica i antiparotidítica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el xarampió, la rubèola i la parotiditis]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna triple vírica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna XRP]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el sarampión, la rubéola y la parotiditis]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna SRP]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna triple vírica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna TV]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[SRP]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[TV]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la rougeole, les oreillons et la rubéole]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin ROR]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[ROR]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[measles, mumps, and rubella vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[measles, mumps, and rubella virus vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[measles-mumps-rubella vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[MMR vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[MMR]]></denominacio>
+    </fitxa>
+    <fitxa num="84">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques atenuades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antixarampionosa, antirubeòlica, antiparotidítica i antivaricel·losa]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el xarampió, la rubèola, la parotiditis i la varicel·la]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna quàdruple vírica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna XRPV]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el sarampión, la rubéola, la parotiditis y la varicela]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna cuádruple vírica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna SRPV]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[SRPV]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la rougeole, les oreillons, la rubéole et la varicelle]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[RORV]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[measles, mumps, rubella, and varicella vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[measles, mumps, rubella, and varicella virus vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[measles-mumps-rubella-varicella vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[MMRV]]></denominacio>
+    </fitxa>
+    <fitxa num="85">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna atenuada]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna viva]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna atenuada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna viva]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin atténué]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin vivant]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[attenuated vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[live vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna preparada amb microorganismes vius que han estat tractats prèviament perquè perdin virulència però mantinguin la seva capacitat de produir una resposta immunitària.]]></definicio>
+    </fitxa>
+    <fitxa num="86">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna bacteriana]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna antibacteriana]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antibacteriana]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna bacteriana]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antibactérien]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin bactérien]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[bacterial vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna preparada amb un antigen d'origen bacterià, capaç d'originar la formació d'anticossos contra la infecció bacteriana corresponent.]]></definicio>
+    </fitxa>
+    <fitxa num="87">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna combinada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna combinada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna mixta]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin combiné]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[combination vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[combined vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna que conté antígens de dues o més espècies microbianes, utilitzada per a la prevenció de diverses malalties infeccioses.]]></definicio>
+    </fitxa>
+    <fitxa num="88">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna conjugada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna conjugada]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin conjugué]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[conjugate vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna de subunitats preparada amb polisacàrids capsulars units a una proteïna portadora, la qual augmenta la immunogenicitat de l'antigen.]]></definicio>
+    </fitxa>
+    <fitxa num="89">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antitetànica i antidiftèrica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el tètanus i la diftèria]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna Td]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antitetánica y antidiftérica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el tétanos y la difteria]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[Td]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la diphtérie et le tétanos]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[dT]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[tetanus and diphtheria toxoids vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[tetanus and diphtheria vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[tetanus-diphtheria vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[Td]]></denominacio>
+    </fitxa>
+    <fitxa num="90">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques atenuades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antixarampionosa]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el xarampió]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antisarampionosa]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el sarampión]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antimorbilleux]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antirougeoleux]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la rougeole]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[measles vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[measles virus vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="91">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-hepatitis A]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra l'hepatitis A]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna HA]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antihepatítica A]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antihepatitis A]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la hepatitis A]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[HA]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin anti-hépatite A]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antihépatite A]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre l'hépatite A]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin HA]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[hepatitis A vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[HepA]]></denominacio>
+    </fitxa>
+    <fitxa num="92">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antitifoïdal]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la febre tifoide]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna FT]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antitifoidea]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la fiebre tifoidea]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antityphoïdique]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la fièvre typhoïde]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la typhoïde]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[typhoid vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="93">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques atenuades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antivariolosa]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la verola]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antivariólica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la viruela]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antivariolique]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la variole]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[smallpox vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="94">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques atenuades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antiparotidítica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la parotiditis]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna contra les galteres]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antiparotidítica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la parotiditis]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra las paperas]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin anti-ourlein]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antiourlein]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre les oreillons]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[mumps vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[mumps virus vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="95">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna de cèl·lules senceres]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna de células enteras]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin à germes entiers]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[whole-cell vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna elaborada amb bacteris o virus sencers.]]></definicio>
+    </fitxa>
+    <fitxa num="96">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna de polisacàrids]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna de polisacáridos]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin polysaccharidique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[polysaccharide vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna de subunitats preparada amb polisacàrids capsulars de certs bacteris.]]></definicio>
+    </fitxa>
+    <fitxa num="97">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna de subunitats]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna acel·lular]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna acelular]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna de subunidades]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin à sous-unités]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin acellulaire]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin sous-unitaire]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[acellular vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[subunit vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna inactivada preparada amb certes fraccions antigèniques d'un virus o d'un bacteri.]]></definicio>
+    </fitxa>
+    <fitxa num="98">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antidiftèrica, antitetànica i antipertússica acel·lular]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la diftèria, el tètanus i la tos ferina acel·lular]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna DTPa·]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna dTpa]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna triple bacteriana]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la difteria, el tétanos y la tos ferina acelular]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna triple bacteriana]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[DTPa·]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[dTpa]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la diphtérie, le tétanos et la coqueluche acellulaire]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[dTca·]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[DTCa]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[diphtheria and tetanus toxoids and acellular pertussis vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[diphtheria, tetanus and acellular pertussis vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[diphtheria-tetanus-acellular pertussis vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[DTaP vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[Tdap vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[tetanus and diphtheria toxoids and acellular pertussis vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[tetanus, diphtheria and acellular pertussis vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[tetanus-diphtheria-acellular pertussis vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[DTaP]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[Tdap]]></denominacio>
+    </fitxa>
+    <fitxa num="99">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna fraccionada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna fraccionada]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin fragmenté]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[split vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna de subunitats preparada fraccionant un virus o un bacteri amb tècniques fisicoquímiques.]]></definicio>
+    </fitxa>
+    <fitxa num="100">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-hepatitis B]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra l'hepatitis B]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna HB]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antihepatítica B]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antihepatitis B]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la hepatitis B]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[HB]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin anti-hépatite B]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antihépatite B]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre l'hépatite B]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin HB]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[hepatitis B vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[HepB]]></denominacio>
+    </fitxa>
+    <fitxa num="101">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques i bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna hexavalent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna DTPa-PI-Hib-HB]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna hexavalente]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna séxtuple]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin hexavalent]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[DTCa-HB-VPI-Hib]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[hexavalent vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[DTaP-HepB-IPV/Hib]]></denominacio>
+    </fitxa>
+    <fitxa num="102">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna inactivada]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna morta]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna inactivada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna muerta]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin inactivé]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[inactivated vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[killed vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna preparada amb microorganismes morts per mètodes físics o químics, incapaços de multiplicar-se en l'organisme al qual s'administra però que conserven la capacitat de produir una resposta immunitària.]]></definicio>
+    </fitxa>
+    <fitxa num="103">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-meningococ B de quatre components]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el menigococ B de quatre components]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna MB4]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna multicomponente antimeningocócica B]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[4CMenB]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[MenB]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin multicomposant contre le meningocoque B]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[4CMenB]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[multicomponent meningococcal B vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[4CMenB]]></denominacio>
+    </fitxa>
+    <fitxa num="104">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-meningococ C conjugada]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el meningococ C conjugada]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna MC]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antimeningocócica C conjugada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[MenC]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antiméningococcique C conjugué]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[meningococcal C conjugate vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[MenC]]></denominacio>
+    </fitxa>
+    <fitxa num="105">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna monovalent]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna monovalente]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna univalente]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin monovalent]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[monovalent vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna que conté un sol serotip o serogrup d'un microorganisme determinat.]]></definicio>
+    </fitxa>
+    <fitxa num="106">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna no sistemàtica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna no sistemática]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vaccination non systématique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[non-systematic vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna preventiva que està indicada de manera individual, per circumstàncies particulars o ambientals.]]></definicio>
+    </fitxa>
+    <fitxa num="107">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques i bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna pentavalent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna DTPa-PI-Hib]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna pentavalente]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna quíntuple]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin pentavalent]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[DTCa-VPI-Hib]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[pentavalent vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[DTaP-IPV/Hib]]></denominacio>
+    </fitxa>
+    <fitxa num="108">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antipoliomielítica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la poliomielitis]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna PI]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna PO]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antipoliomielítica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la poliomielitis]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VPI]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VPO]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antipoliomyélitique]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[VPI]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[VPO]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[polio vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[poliomyelitis vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[poliovirus vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[IPV]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[OPV]]></denominacio>
+    </fitxa>
+    <fitxa num="109">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antipneumocòccica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el pneumococ]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna Pn]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antineumocócica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el neumococo]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VNC]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antipneumococcique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[pneumococcal vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="110">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antipneumocòccica 23-valent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el pneumococ 23-valent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna Pn23]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antineumocócica 23-valente]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antineumocócica de polisacáridos]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VNP23]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antipneumococcique polyosidique 23-valent]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[Pn23]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[VP23]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[pneumococcal polysaccharide vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[23-valent pneumococcal polysaccharide vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[PPSV23]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[PPV]]></denominacio>
+    </fitxa>
+    <fitxa num="111">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna polivalent]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna multivalente]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna polivalente]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin polyvalent]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[polyvalent vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna que conté diversos serotips o serogrups del mateix microorganisme.]]></definicio>
+    </fitxa>
+    <fitxa num="112">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna preventiva]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna profilàctica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna preventiva]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna profiláctica]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin préventive]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin prophylactique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[preventive vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[prophylactic vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna emprada per a produir una resposta immunitària concreta en la prevenció de malalties infeccioses, abans que puguin afectar un organisme.]]></definicio>
+    </fitxa>
+    <fitxa num="113">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antiràbica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la ràbia]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna Ra]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antirrábica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra la rabia]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antirabique]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre la rage]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[human diploid cell vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[rabies vaccine]]></denominacio>
+    </fitxa>
+    <fitxa num="114">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna reassortida]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna reagrupada]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin réassorti]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[reassortant vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna obtinguda mitjançant tècniques de biologia molecular, en què es recombinen soques de diferents microorganismes de la mateixa espècie o d'espècies diferents amb l'objectiu d'obtenir una nova soca que reuneixi les característiques desitjades per a la vacuna.]]></definicio>
+    </fitxa>
+    <fitxa num="115">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna recombinant]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna genotecnológica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna recombinante]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin recombinant]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin recombiné]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[recombinant vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna preparada mitjançant tècniques d'enginyeria genètica d'àcid desoxiribonucleic recombinant.]]></definicio>
+    </fitxa>
+    <fitxa num="116">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques atenuades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antirotavírica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el rotavirus]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna RV]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antirrotavírica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el rotavirus]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[RV]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antirotavirus]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre le rotavirus]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[rotavirus vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[RV]]></denominacio>
+    </fitxa>
+    <fitxa num="117">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna sintètica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna sintética]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin synthétique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[synthetic vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna preparada amb tècniques artificials, especialment la síntesi de polipèptids o el clonatge d'acid desoxiribonucleic.]]></definicio>
+    </fitxa>
+    <fitxa num="118">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna sistemàtica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna sistemática]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccination systématique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[systematic vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna preventiva que està indicada per a tota la població, d'acord amb el calendari de vacunacions establert en un país o regió.]]></definicio>
+    </fitxa>
+    <fitxa num="119">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes bacterianes inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antitetànica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el tètanus]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m"><![CDATA[toxoide tetànic]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna T]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[toxoide tetánico]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antitetánica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el tétanos]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[T]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antitétanique]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin contre le tétanos]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n m"><![CDATA[T]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[tetanus toxoid]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[tetanus vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[T]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[TT]]></denominacio>
+    </fitxa>
+    <fitxa num="120">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna terapèutica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna terapéutica]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin curatif]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin thérapeutique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[therapeutic vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna emprada per a produir una resposta immunitària específica concreta en el tractament de malalties infeccioses o d'altres malalties, un cop s'han declarat en un organisme.]]></definicio>
+    </fitxa>
+    <fitxa num="121">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna vírica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna antivírica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antiviral]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna antivírica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna viral]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna vírica]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin antiviral]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin viral]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[viral vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[virus vaccine]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacuna preparada amb un antigen d'origen víric, capaç d'originar la formació d'anticossos contra la infecció vírica corresponent.]]></definicio>
+    </fitxa>
+    <fitxa num="122">
+      <areatematica><![CDATA[Vacunes preventives > Vacunes víriques inactivades]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna anti-virus del papil·loma humà tetravalent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna contra el virus del papil·loma humà tetravalent]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vacuna VPH4]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacuna tetravalente contra el virus del papiloma humano]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VPH-4]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin quadrivalent contre le virus du papillome humain (types 6, 11, 16 et 18)]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[vaccin VPH4]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[human papillomavirus quadrivalent vaccine]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[4vHPV]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[HPV4]]></denominacio>
+    </fitxa>
+    <fitxa num="123">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacunació de rescat]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacunación al día]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacunación de actualización]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacunación de puesta al día]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacunación de recuperación]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacunación de repesca]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacunación de rescate]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[rattrapage vaccinal]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vaccination de rattrapage]]></denominacio>
+      <denominacio llengua="it" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[catch-up]]></denominacio>
+      <denominacio llengua="it" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[ripescaggio]]></denominacio>
+      <denominacio llengua="it" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vaccinazione di catch-up]]></denominacio>
+      <denominacio llengua="it" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vaccinazione di recupero]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[catch-up immunization]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[catch-up vaccination]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacunació que s'efectua fora de l'edat recomanada en el calendari de vacunacions, dirigida a persones que no estan al dia de les vacunes o de les dosis vacunals recomanades, o bé dirigida a col·lectius de risc en cas de situacions excepcionals.]]></definicio>
+    </fitxa>
+    <fitxa num="124">
+      <areatematica><![CDATA[Conceptes generals > Epidemiologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacunació postexposició]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacunación postexposición]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vaccination postexposition]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[post-exposure vaccination]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacunació que es realitza després de l'exposició a un patogen.]]></definicio>
+    </fitxa>
+    <fitxa num="125">
+      <areatematica><![CDATA[Conceptes generals > Epidemiologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacunació preexposició]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacunación preexposición]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vaccination preexposition]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[pre-exposure vaccination]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Vacunació que es realitza abans de l'exposició a un patogen.]]></definicio>
+    </fitxa>
+    <fitxa num="126">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj"><![CDATA[vacunal]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="adj"><![CDATA[vaccínic -a]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[vacunal]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[vaccinal -ale]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="adj"><![CDATA[vaccinal]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Relatiu o pertanyent a la vacuna.]]></definicio>
+    </fitxa>
+    <fitxa num="127">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vacunologia]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[vaccinologia]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vaccinología]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vacunología]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vaccinologie]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[vaccinology]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Branca de la medicina que estudia les vacunes.]]></definicio>
+    </fitxa>
+    <fitxa num="128">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[via d'administració]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía de administración]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie d'administration]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[route of administration]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Forma d'introducció d'una vacuna en l'organisme.]]></definicio>
+    </fitxa>
+    <fitxa num="129">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[via d'administració intranasal]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[via d'administració IN]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[via intranasal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía de administración intranasal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía intranasal]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie d'administration intranasale]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie intranasale]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[intranasal route]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[intranasal route of administration]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Via d'administració per la qual les vacunes són introduïdes a l'organisme a través dels narius.]]></definicio>
+    </fitxa>
+    <fitxa num="130">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[via d'administració intradèrmica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[via d'administració ID]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[via intradèrmica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía de administración ID]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía de administración intradérmica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía intradérmica]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie d'administration ID]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie d'administration intradermique]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie intradermique]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[ID route of administration]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[intradermal route]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[intradermal route of administration]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Via d'administració parenteral per la qual les vacunes són injectades a la dermis.]]></definicio>
+    </fitxa>
+    <fitxa num="131">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[via d'administració intramuscular]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[via d'administració IM]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[via intramuscular]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía de administración IM]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía de administración intramuscular]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía intramuscular]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie d'administration intramusculaire]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie intramusculaire]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[IM route of administration]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[intramuscular route]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[intramuscular route of administration]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Via d'administració parenteral per la qual les vacunes són injectades a la massa muscular.]]></definicio>
+    </fitxa>
+    <fitxa num="132">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[via d'administració subcutània]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[via d'administració SC]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[via subcutània]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía de administración SC]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía de administración subcutánea]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía subcutánea]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie d'administration SC]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie d'administration sous-cutanée]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie sous-cutanée]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[SC route of administration]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[subcutaneous route]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[subcutaneous route of administration]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Via d'administració parenteral per la qual les vacunes són injectades en el teixit subcutani.]]></definicio>
+    </fitxa>
+    <fitxa num="133">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[via d'administració oral]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[via oral]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sigla" categoria="n f"><![CDATA[VO]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía de administración oral]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía oral]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VO]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie orale]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VO]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[oral route]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[oral route of administration]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Via d'administració per la qual les vacunes són ingerides.]]></definicio>
+    </fitxa>
+    <fitxa num="134">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Composició i tipologia de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[virosoma]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[virosoma]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[virosome]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[virosome]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Estructura formada per una membrana de lípids, monocapa o bicapa, que incorpora un antigen, la qual actua com a sistema d'alliberament de l'antigen.]]></definicio>
+    </fitxa>
+    <fitxa num="135">
+      <areatematica><![CDATA[Conceptes generals > Vacunologia > Programa de vacunació i aplicació de vacunes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[via d'administració parenteral]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[via parenteral]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sigla" categoria="n f"><![CDATA[VP]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía de administración parenteral]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía parenteral]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[VP]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie d'administration parentérale]]></denominacio>
+      <denominacio llengua="fr" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[voie parentérale]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[parenteral route]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[parenteral route of administration]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Via d'administració per la qual les vacunes són introduïdes a l'organisme per mitjà d'una injecció que comporta perforació de la pell.]]></definicio>
+    </fitxa>
+  </fitxes>
+</cessiodades>

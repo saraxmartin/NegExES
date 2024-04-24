@@ -1,0 +1,2179 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE terminologiaoberta SYSTEM "http:\\www.termcat.cat\productes\toberta\terminologiaoberta-1.1.dtd">
+<terminologiaoberta>
+	<autor>TERMCAT, Centre de Terminologia</autor>
+	<titol>TO Ciències de la salut (Fisiologia patològica)</titol>
+	<fitxes>
+		<fitxa num="1">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">ab&#224;sia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">abasia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">abasia</denominacio>
+		</fitxa>
+		<fitxa num="2">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">abatiment</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">abatimiento</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">prostration</denominacio>
+		</fitxa>
+		<fitxa num="3">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">abl&#232;psia</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">ceguesa</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">ceguetat</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">ablepsia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">ceguera</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">ablepsia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">blindness</denominacio>
+		</fitxa>
+		<fitxa num="4">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">acal&#224;sia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">acalasia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">achalasia</denominacio>
+		</fitxa>
+		<fitxa num="5">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">acc&#233;s</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">acceso</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">access</denominacio>
+		</fitxa>
+		<fitxa num="6">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">acidosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">acidosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">acidosis</denominacio>
+		</fitxa>
+		<fitxa num="7">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">acidosi l&#224;ctica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">acidosis l&#225;ctica</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">lactic acidosis</denominacio>
+		</fitxa>
+		<fitxa num="8">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">acidosi metab&#242;lica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">acidosis metab&#243;lica</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">metabolic acidosis</denominacio>
+		</fitxa>
+		<fitxa num="9">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">acidosi respirat&#242;ria</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">acidosis respiratoria</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">respiratory acidosis</denominacio>
+		</fitxa>
+		<fitxa num="10">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">acin&#232;sia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">acinesia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">akinesia</denominacio>
+		</fitxa>
+		<fitxa num="11">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">acme</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m">fastigi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">acm&#233;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">fastigio</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">fastigium</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">acme</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">fastigium</denominacio>
+		</fitxa>
+		<fitxa num="12">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">ac&#242;lia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">acolia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">acholia</denominacio>
+		</fitxa>
+		<fitxa num="13">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">acraturesi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">acraturesis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">acraturesis</denominacio>
+		</fitxa>
+		<fitxa num="14">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">acrop&#224;quia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">acropaquia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">acropachia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">acropachy</denominacio>
+		</fitxa>
+		<fitxa num="15">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">adin&#224;mia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">adinamia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">adynamia</denominacio>
+		</fitxa>
+		<fitxa num="16">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">adiposi</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f">obesitat</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">adiposis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">obesidad</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">adiposis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">obesity</denominacio>
+		</fitxa>
+		<fitxa num="17">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">aeroc&#242;lia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">aerocolia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">aerocolia</denominacio>
+		</fitxa>
+		<fitxa num="18">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">afecci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">afecci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">affection</denominacio>
+		</fitxa>
+		<fitxa num="19">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">aflaquiment</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n m">amagriment</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">delgadez</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">enflaquecimiento</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">magrez</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">leanness</denominacio>
+		</fitxa>
+		<fitxa num="20">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">afonia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">afon&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">aphonia</denominacio>
+		</fitxa>
+		<fitxa num="21">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">aftosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">aftosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">apthosis</denominacio>
+		</fitxa>
+		<fitxa num="22">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">agal&#224;xia</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">agal&#224;ctia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">agalactia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">agalaxia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">agalactia</denominacio>
+		</fitxa>
+		<fitxa num="23">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">agomfiasi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">agonfiasis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">agonfosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">agomphiasis</denominacio>
+		</fitxa>
+		<fitxa num="24">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">agonia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">agon&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">agony</denominacio>
+		</fitxa>
+		<fitxa num="25">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">agut &#45;uda</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">agudo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">acute</denominacio>
+		</fitxa>
+		<fitxa num="26">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">alcalosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">alcalosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">alkalosis</denominacio>
+		</fitxa>
+		<fitxa num="27">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">alcalosi metab&#242;lica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">alcalosis metab&#243;lica</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">metabolic alkalosis</denominacio>
+		</fitxa>
+		<fitxa num="28">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">alcalosi respirat&#242;ria</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">alcalosis respiratoria</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">respiratory alkalosis</denominacio>
+		</fitxa>
+		<fitxa num="29">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">&#224;lgia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">algia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">algia</denominacio>
+		</fitxa>
+		<fitxa num="30">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">&#224;lgid &#45;a</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">&#225;lgido</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">algid</denominacio>
+		</fitxa>
+		<fitxa num="31">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">algidesa</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">algiditat</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">algidez</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">algidity</denominacio>
+		</fitxa>
+		<fitxa num="32">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">al&#183;lor&#237;tmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">alorritmia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">allorrythmia</denominacio>
+		</fitxa>
+		<fitxa num="33">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">amaurosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">amaurosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">amaurosis</denominacio>
+		</fitxa>
+		<fitxa num="34">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">amfotonia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anfoton&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">amphotony</denominacio>
+		</fitxa>
+		<fitxa num="35">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">amiost&#224;sia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">amiostasia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">amyostasia</denominacio>
+		</fitxa>
+		<fitxa num="36">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">amiotonia</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">miatonia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">amioton&#237;a</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">miaton&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">amyotonia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">myatonia</denominacio>
+		</fitxa>
+		<fitxa num="37">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#224;basi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">an&#225;basis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">anabasis</denominacio>
+		</fitxa>
+		<fitxa num="38">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#224;lgia</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">analg&#232;sia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">analgesia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">analgia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">analgesia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">analgia</denominacio>
+		</fitxa>
+		<fitxa num="39">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#232;mia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">anaemia &#91;GB&#93;</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">anemia &#91;US&#93;</denominacio>
+		</fitxa>
+		<fitxa num="40">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#232;mia apl&#224;stica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia apl&#225;sica</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">aplastic anaemia</denominacio>
+		</fitxa>
+		<fitxa num="41">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#232;mia aregenerativa</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia arregenerativa</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">aregenerative anemia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">nonregenerative anaemia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">unresponsive anaemia</denominacio>
+		</fitxa>
+		<fitxa num="42">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#232;mia ferrop&#232;nica</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">an&#232;mia per d&#232;ficit de ferro</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia ferrop&#233;nica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia por carencia de hierro</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia siderop&#233;nica</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypoferric anaemia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">iron&#45;deficiency anaemia</denominacio>
+		</fitxa>
+		<fitxa num="43">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#232;mia hemol&#237;tica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia hemol&#237;tica</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hemolytic anaemia</denominacio>
+		</fitxa>
+		<fitxa num="44">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#232;mia hemol&#237;tica autoimmunit&#224;ria</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia hemol&#237;tica autoinmune</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">autoimmune hemolytic anaemia</denominacio>
+		</fitxa>
+		<fitxa num="45">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#232;mia hemorr&#224;gica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia hemorr&#225;gica</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">haemorrhagic anaemia</denominacio>
+		</fitxa>
+		<fitxa num="46">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#232;mia hipopl&#224;stica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia hipopl&#225;sica</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypoplastic anaemia</denominacio>
+		</fitxa>
+		<fitxa num="47">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#232;mia mielop&#224;tica</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f">an&#232;mia mielopt&#237;sica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia mielop&#225;tica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia mielopt&#237;sica</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">myelopathic anaemia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">myelophthisic anaemia</denominacio>
+		</fitxa>
+		<fitxa num="48">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#232;mia per d&#232;ficit</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">an&#232;mia nutritiva</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia carencial</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia nutricional</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">nutritional anaemia</denominacio>
+		</fitxa>
+		<fitxa num="49">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#232;mia regenerativa</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anemia regenerativa</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">regenerative anaemia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">responsive anaemia</denominacio>
+		</fitxa>
+		<fitxa num="50">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">angioedema</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n m">edema angioneur&#242;tic</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">angioedema</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">edema angioneur&#243;tico</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">angioedema</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">angioneurotic edema</denominacio>
+		</fitxa>
+		<fitxa num="51">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">angiomatosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">angiomatosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">angiomatosis</denominacio>
+		</fitxa>
+		<fitxa num="52">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">anhidrosi</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">isquidrosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anhidrosis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">isquidrosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">anhidrosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">ischidrosis</denominacio>
+		</fitxa>
+		<fitxa num="53">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">anisoc&#242;ria</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anisocoria</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">anisocoria</denominacio>
+		</fitxa>
+		<fitxa num="54">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">anisosf&#237;gmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anisosfigmia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">anisosphygmia</denominacio>
+		</fitxa>
+		<fitxa num="55">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">anod&#237;nia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anodinia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">anodynia</denominacio>
+		</fitxa>
+		<fitxa num="56">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">anor&#232;xia</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">desgana</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">inapet&#232;ncia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anorexia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">desgana</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">inapetencia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">anorexia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">inappetence</denominacio>
+		</fitxa>
+		<fitxa num="57">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">an&#242;smia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anosmia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">anosmia</denominacio>
+		</fitxa>
+		<fitxa num="58">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">anquilosi</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">ac&#224;mpsia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">acampsia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">anquilosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">acampsia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">ankylosis</denominacio>
+		</fitxa>
+		<fitxa num="59">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">apoplexia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">apoplej&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">apoplexy</denominacio>
+		</fitxa>
+		<fitxa num="60">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">arcada</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f">basca</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">arcada</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">basca</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">nausea</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">retching</denominacio>
+		</fitxa>
+		<fitxa num="61">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">arefl&#232;xia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">arreflexia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">arreflexia</denominacio>
+		</fitxa>
+		<fitxa num="62">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">ar&#237;tmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">arritmia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">arrythmia</denominacio>
+		</fitxa>
+		<fitxa num="63">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">asf&#237;gmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">asfigmia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">asphygmia</denominacio>
+		</fitxa>
+		<fitxa num="64">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">asf&#237;xia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">asfixia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">asphyxia</denominacio>
+		</fitxa>
+		<fitxa num="65">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">as&#237;stole</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">asistolia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">asistolismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">asystole</denominacio>
+		</fitxa>
+		<fitxa num="66">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">asist&#242;lia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">asistolia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">asystolia</denominacio>
+		</fitxa>
+		<fitxa num="67">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">asma</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">asma</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">asthma</denominacio>
+		</fitxa>
+		<fitxa num="68">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">ast&#232;nia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">astenia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">asthenia</denominacio>
+		</fitxa>
+		<fitxa num="69">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">atac</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">ataque</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">attack</denominacio>
+		</fitxa>
+		<fitxa num="70">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">at&#224;xia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">ataxia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">ataxia</denominacio>
+		</fitxa>
+		<fitxa num="71">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">atel&#232;ctasi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">atelectasia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">atelectasis</denominacio>
+		</fitxa>
+		<fitxa num="72">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">at&#232;rmic &#45;a</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">at&#233;rmico</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">athermic</denominacio>
+		</fitxa>
+		<fitxa num="73">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">atonia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">aton&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">atony</denominacio>
+		</fitxa>
+		<fitxa num="74">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">atr&#232;psia</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m">marasme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">atrepsia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">marasmo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">athrepsia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">marasmus</denominacio>
+		</fitxa>
+		<fitxa num="75">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">aturada card&#237;aca</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">paro card&#237;aco</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">cardiac arrest</denominacio>
+		</fitxa>
+		<fitxa num="76">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">avitaminosi</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f">hipovitaminosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">avitaminosis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipovitaminosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">avitaminosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypovitaminosis</denominacio>
+		</fitxa>
+		<fitxa num="77">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">avortament</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">aborto</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">abortion</denominacio>
+		</fitxa>
+		<fitxa num="78">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="v intr">avortar</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">abortar</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">abort&#44; to</denominacio>
+		</fitxa>
+		<fitxa num="79">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">benigne &#45;a</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">benigno</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">benign</denominacio>
+		</fitxa>
+		<fitxa num="80">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">blefaroptosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">blefaroptosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">blepharoptosis</denominacio>
+		</fitxa>
+		<fitxa num="81">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">blocatge</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">bloqueo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">block</denominacio>
+		</fitxa>
+		<fitxa num="82">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">bradic&#224;rdia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">bradicardia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">bradycardia</denominacio>
+		</fitxa>
+		<fitxa num="83">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">bradisf&#237;gmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">bradisfigmia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">bradysphygmia</denominacio>
+		</fitxa>
+		<fitxa num="84">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">caqu&#232;xia</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f">emaciaci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">caquexia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">emaciaci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">cachexia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">emaciation</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">wasting</denominacio>
+		</fitxa>
+		<fitxa num="85">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">car&#232;ncia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">carencia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">deficiency</denominacio>
+		</fitxa>
+		<fitxa num="86">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">cetoacidosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">cetoacidosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">ketoacidosis</denominacio>
+		</fitxa>
+		<fitxa num="87">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">cetosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">cetosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">ketosis</denominacio>
+		</fitxa>
+		<fitxa num="88">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">clon</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m">clonus</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">clono</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">clonus</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">clonus</denominacio>
+		</fitxa>
+		<fitxa num="89">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">col&#232;stasi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">colestasis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">cholestasis</denominacio>
+		</fitxa>
+		<fitxa num="90">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">c&#242;lic</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">c&#243;lico</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">colic</denominacio>
+		</fitxa>
+		<fitxa num="91">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">col&#183;lapse</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">colapso</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">collapse</denominacio>
+		</fitxa>
+		<fitxa num="92">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">col&#183;lapse pulmonar</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">colapso pulmonar</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">collapse of the lung</denominacio>
+		</fitxa>
+		<fitxa num="93">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">coma</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">coma</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">coma</denominacio>
+		</fitxa>
+		<fitxa num="94">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">commoci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">conmoci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">commotio</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">concussion</denominacio>
+		</fitxa>
+		<fitxa num="95">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">complicaci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">complicaci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">complication</denominacio>
+		</fitxa>
+		<fitxa num="96">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">concomitant</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">concomitante</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">concomitant</denominacio>
+		</fitxa>
+		<fitxa num="97">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">contractura</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">contractura</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">contracture</denominacio>
+		</fitxa>
+		<fitxa num="98">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">convalesc&#232;ncia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">convalescencia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">convalescence</denominacio>
+		</fitxa>
+		<fitxa num="99">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">convulsi&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">convulsi&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">convulsion</denominacio>
+		</fitxa>
+		<fitxa num="100">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">craurosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">craurosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">kraurosis</denominacio>
+		</fitxa>
+		<fitxa num="101">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">crisi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">crisis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">crisis</denominacio>
+		</fitxa>
+		<fitxa num="102">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">cr&#237;tic &#45;a</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">cr&#237;tico</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">critical</denominacio>
+		</fitxa>
+		<fitxa num="103">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">cr&#242;nic &#45;a</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">cr&#243;nico</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">chronic</denominacio>
+		</fitxa>
+		<fitxa num="104">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">crupal</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">crupal</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">croupous</denominacio>
+		</fitxa>
+		<fitxa num="105">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">defervesc&#232;ncia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">defervescencia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">decrement</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">defervescence</denominacio>
+		</fitxa>
+		<fitxa num="106">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">depressi&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">depresi&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">depression</denominacio>
+		</fitxa>
+		<fitxa num="107">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">dermatitis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">dermatitis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">dermatitis</denominacio>
+		</fitxa>
+		<fitxa num="108">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">dermatitis al&#183;l&#232;rgica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">dermatitis al&#233;rgica</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">allergic dermatitis</denominacio>
+		</fitxa>
+		<fitxa num="109">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">dermatitis at&#242;pica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">dermatitis at&#243;pica</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">atopic dermatitis</denominacio>
+		</fitxa>
+		<fitxa num="110">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">dermatitis de contacte</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">dermatitis de contacto</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">contact dermatitis</denominacio>
+		</fitxa>
+		<fitxa num="111">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">dermatosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">dermatosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">dermatosis</denominacio>
+		</fitxa>
+		<fitxa num="112">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">deshidrataci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">deshidrataci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">dehydratation</denominacio>
+		</fitxa>
+		<fitxa num="113">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">desnutrici&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">desnutrici&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">malnutrition</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">underfeeding</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">undernutrition</denominacio>
+		</fitxa>
+		<fitxa num="114">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">diabetis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">diabetes</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">diabetes</denominacio>
+		</fitxa>
+		<fitxa num="115">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">diabetis ins&#237;pida</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">diabetes ins&#237;pida</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">diabetes insipidus</denominacio>
+		</fitxa>
+		<fitxa num="116">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">diabetis mellitus &#91;la&#93;</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">diabetis sacarina</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">diabetes mellitus</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">diabetes sacarina</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">diabetes mellitus</denominacio>
+		</fitxa>
+		<fitxa num="117">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">di&#224;crisi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">diacrisis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">diacrisis</denominacio>
+		</fitxa>
+		<fitxa num="118">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">diaforesi</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">sudoresi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">diaforesis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">sudoresis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">diaphoresis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">sudoresis</denominacio>
+		</fitxa>
+		<fitxa num="119">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">diarrea</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">diarrea</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">diarrhea &#91;US&#93;</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">diarrhoea &#91;GB&#93;</denominacio>
+		</fitxa>
+		<fitxa num="120">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">di&#224;tesi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">di&#225;tesis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">diathesis</denominacio>
+		</fitxa>
+		<fitxa num="121">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">dicrotisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">dicrotismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">dicrotism</denominacio>
+		</fitxa>
+		<fitxa num="122">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">discin&#232;sia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">discinesia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">dyskinesia</denominacio>
+		</fitxa>
+		<fitxa num="123">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">disf&#224;gia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">disfagia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">disphagia</denominacio>
+		</fitxa>
+		<fitxa num="124">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">disprote&#239;n&#232;mia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">disproteinemia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">dysproteinaemia &#91;GB&#93;</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">dysproteinemia &#91;US&#93;</denominacio>
+		</fitxa>
+		<fitxa num="125">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">dist&#242;cia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">distocia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">dystocia</denominacio>
+		</fitxa>
+		<fitxa num="126">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">dolor</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">dolor</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pain</denominacio>
+		</fitxa>
+		<fitxa num="127">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">ecl&#224;mpsia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">eclampsia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">eclampsia</denominacio>
+		</fitxa>
+		<fitxa num="128">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">&#232;czema</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">eccema</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">eczema</denominacio>
+		</fitxa>
+		<fitxa num="129">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">edema laringi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">edema laringeo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">laryngeal edema</denominacio>
+		</fitxa>
+		<fitxa num="130">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">edema pulmonar</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">edema pulmonar</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pulmonary edema</denominacio>
+		</fitxa>
+		<fitxa num="131">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">emissi&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">emisi&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">discharge</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">emission</denominacio>
+		</fitxa>
+		<fitxa num="132">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">emmetzinament</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n m">enverinament</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">envenenamiento</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">poisoning</denominacio>
+		</fitxa>
+		<fitxa num="133">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">empiesi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">empiesis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">empyesis</denominacio>
+		</fitxa>
+		<fitxa num="134">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">ensopiment</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">sopitesa</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">modorra</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">drowsiness</denominacio>
+		</fitxa>
+		<fitxa num="135">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">ep&#237;fora</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">il&#183;lacrimaci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">ep&#237;fora</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">epiphora</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">illacrimation</denominacio>
+		</fitxa>
+		<fitxa num="136">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">epil&#232;psia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">epilepsia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">epilepsy</denominacio>
+		</fitxa>
+		<fitxa num="137">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">erupci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">erupci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">eruption</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">rash</denominacio>
+		</fitxa>
+		<fitxa num="138">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">esbufec</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">resoplido</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">snort</denominacio>
+		</fitxa>
+		<fitxa num="139">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">esclerod&#232;rmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">esclerodermia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">scleroderma</denominacio>
+		</fitxa>
+		<fitxa num="140">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">esgotament</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">agotamiento</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">exhaustion</denominacio>
+		</fitxa>
+		<fitxa num="141">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">espasme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">espasmo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">spasm</denominacio>
+		</fitxa>
+		<fitxa num="142">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">espondilolistesi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">espondilolistesis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">spondylolisthesis</denominacio>
+		</fitxa>
+		<fitxa num="143">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">esput</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">esputo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">sputum</denominacio>
+		</fitxa>
+		<fitxa num="144">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">esteatorrea</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">esteatorrea</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">steatorrhea</denominacio>
+		</fitxa>
+		<fitxa num="145">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">estigma</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">estigma</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">stigma</denominacio>
+		</fitxa>
+		<fitxa num="146">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">estupor</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">estupor</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">stupor</denominacio>
+		</fitxa>
+		<fitxa num="147">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">exacerbaci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">exacerbaci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">exacerbation</denominacio>
+		</fitxa>
+		<fitxa num="148">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">exantema</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">exantema</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">exanthem</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">exanthema</denominacio>
+		</fitxa>
+		<fitxa num="149">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">exoft&#224;lmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">exoftalm&#237;a</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">exoftalmos</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">exophthalmos</denominacio>
+		</fitxa>
+		<fitxa num="150">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">extenuaci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">extenuaci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">exhaustion</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">lassitude</denominacio>
+		</fitxa>
+		<fitxa num="151">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">extras&#237;stole</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">extras&#237;stole</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">extrasystole</denominacio>
+		</fitxa>
+		<fitxa num="152">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f pl">extremituds</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">estremecimiento</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">death agony</denominacio>
+		</fitxa>
+		<fitxa num="153">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">f&#224;cies</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">facies</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">facies</denominacio>
+		</fitxa>
+		<fitxa num="154">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">febre</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f">pir&#232;xia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">fiebre</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">pirexia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">fever</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pyrexia</denominacio>
+		</fitxa>
+		<fitxa num="155">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">febre cont&#237;nua</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f">febre s&#237;noca</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">fiebre continua</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">fiebre sinoca</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">continued fever</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">continuous fever</denominacio>
+		</fitxa>
+		<fitxa num="156">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">febre h&#232;ctica</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">fiebre h&#233;ctica</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hectic fever</denominacio>
+		</fitxa>
+		<fitxa num="157">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">febr&#237;cula</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">febr&#237;cula</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">febricula</denominacio>
+		</fitxa>
+		<fitxa num="158">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">fiblada</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">punzada</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">twinge</denominacio>
+		</fitxa>
+		<fitxa num="159">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">fibril&#183;laci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">fibrilaci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">fibrillation</denominacio>
+		</fitxa>
+		<fitxa num="160">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">fibromatosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">fibromatosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">fibromatosis</denominacio>
+		</fitxa>
+		<fitxa num="161">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">fisiopatologia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">fisiopatolog&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">morbid physiology</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">physiopathology</denominacio>
+		</fitxa>
+		<fitxa num="162">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">flacciditat</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">flacidez</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">flaccidity</denominacio>
+		</fitxa>
+		<fitxa num="163">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">flatositat</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">flato</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">flatosidad</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">flatus</denominacio>
+		</fitxa>
+		<fitxa num="164">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">flatul&#232;ncia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">flatulencia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">flatulence</denominacio>
+		</fitxa>
+		<fitxa num="165">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">flegma</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">flema</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">phlegm</denominacio>
+		</fitxa>
+		<fitxa num="166">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">fotof&#242;bia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">fotofobia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">photophobia</denominacio>
+		</fitxa>
+		<fitxa num="167">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">frinod&#232;rmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">frinodermia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">phrynoderma</denominacio>
+		</fitxa>
+		<fitxa num="168">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">gamadura</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m">gam</denominacio>
+		</fitxa>
+		<fitxa num="169">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">halitosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">halitosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">halitosis</denominacio>
+		</fitxa>
+		<fitxa num="170">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hemat&#232;mesi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hematemesis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hematemesis</denominacio>
+		</fitxa>
+		<fitxa num="171">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hemicl&#242;nia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hemiclon&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hemiclonia</denominacio>
+		</fitxa>
+		<fitxa num="172">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hemipar&#232;sia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hemiparesia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hemiparesis</denominacio>
+		</fitxa>
+		<fitxa num="173">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hemoconcentraci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hemoconcentraci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">haemoconcentration &#91;GB&#93;</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hemoconcentration &#91;US&#93;</denominacio>
+		</fitxa>
+		<fitxa num="174">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hemoptisi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hemoptisis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">haemoptysis &#91;GB&#93;</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hemoptysis &#91;US&#93;</denominacio>
+		</fitxa>
+		<fitxa num="175">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hiperadrenalisme</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m">hiperepinefrisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hiperadrenalismo</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hiperepinefrinemia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperadrenalism</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperepinephrinemia</denominacio>
+		</fitxa>
+		<fitxa num="176">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hiperadrenocorticisme</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f">s&#237;ndrome de Cushing</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hiperadrenocorticismo</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">s&#237;ndrome de Cushing</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">Cushing&#39;s syndrome</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperadrenocorticism</denominacio>
+		</fitxa>
+		<fitxa num="177">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hiperc&#224;pnia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipercapnia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypercapnia</denominacio>
+		</fitxa>
+		<fitxa num="178">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hipercin&#232;sia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipercinesia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipercinesis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperkinesia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperkinesis</denominacio>
+		</fitxa>
+		<fitxa num="179">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hiperclorh&#237;dria</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hiperclorhidria</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperchlorhydria</denominacio>
+		</fitxa>
+		<fitxa num="180">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hiperinsulinisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hiperinsulinismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperinsulinism</denominacio>
+		</fitxa>
+		<fitxa num="181">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hiperparatiro&#239;disme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hiperparatiroidismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperparathyroidism</denominacio>
+		</fitxa>
+		<fitxa num="182">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hiperpir&#232;xia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hiperpirexia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperpyrexia</denominacio>
+		</fitxa>
+		<fitxa num="183">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hiperrefl&#232;xia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hiperreflexia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperreflexia</denominacio>
+		</fitxa>
+		<fitxa num="184">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hipertensi&#243; arterial</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipertensi&#243;n arterial</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">arterial hypertension</denominacio>
+		</fitxa>
+		<fitxa num="185">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hipert&#232;rmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipertermia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperthermia</denominacio>
+		</fitxa>
+		<fitxa num="186">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hipertimisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipertimismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperthymism</denominacio>
+		</fitxa>
+		<fitxa num="187">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hipertiro&#239;disme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipertiroidismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperthyroidism</denominacio>
+		</fitxa>
+		<fitxa num="188">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hipertonia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hiperton&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypertonia</denominacio>
+		</fitxa>
+		<fitxa num="189">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hiperventilaci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hiperventilaci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hyperventilation</denominacio>
+		</fitxa>
+		<fitxa num="190">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hipervitaminosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipervitaminosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypervitaminosis</denominacio>
+		</fitxa>
+		<fitxa num="191">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hipoadrenalisme</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m">hipoepinefrisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipoadrenalismo</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipoepinefria</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypoadrenalism</denominacio>
+		</fitxa>
+		<fitxa num="192">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hipoadrenocorticisme</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f">malaltia d&#39;Addison</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">enfermedad de Addison</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipoadrenocorticismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">Addison&#39;s disease</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">primary hipoadrenocorticism</denominacio>
+		</fitxa>
+		<fitxa num="193">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hipoc&#224;pnia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipocapnia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypocapnia</denominacio>
+		</fitxa>
+		<fitxa num="194">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hipoinsulinisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipoinsulinismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypoinsulinism</denominacio>
+		</fitxa>
+		<fitxa num="195">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hipoparatiro&#239;disme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipoparatiroidismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypoparathyroidism</denominacio>
+		</fitxa>
+		<fitxa num="196">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hipopitu&#239;tarisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipopituitarismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypopituitarism</denominacio>
+		</fitxa>
+		<fitxa num="197">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hipotensi&#243; arterial</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipotensi&#243;n arterial</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">arterial hypotension</denominacio>
+		</fitxa>
+		<fitxa num="198">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hipot&#232;rmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipotermia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypothermia</denominacio>
+		</fitxa>
+		<fitxa num="199">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hipotimisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipotimismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypothymism</denominacio>
+		</fitxa>
+		<fitxa num="200">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">hipotiro&#239;disme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipotiroidismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypothyroidism</denominacio>
+		</fitxa>
+		<fitxa num="201">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hipotonia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipoton&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypotonia</denominacio>
+		</fitxa>
+		<fitxa num="202">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hipotonia vagal</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipoton&#237;a vagal</denominacio>
+		</fitxa>
+		<fitxa num="203">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">hipoventilaci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipoventilaci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypoventilation</denominacio>
+		</fitxa>
+		<fitxa num="204">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">iatrog&#232;nic &#45;a</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">iatrog&#233;nico</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">iatrogenic</denominacio>
+		</fitxa>
+		<fitxa num="205">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">icter&#237;cia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">ictericia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">icterus</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">jaundice</denominacio>
+		</fitxa>
+		<fitxa num="206">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">ictus</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">ictus</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">ictus</denominacio>
+		</fitxa>
+		<fitxa num="207">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">&#237;leus</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m">ili</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">&#237;leo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">ileus</denominacio>
+		</fitxa>
+		<fitxa num="208">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">impacci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">impactaci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">impaction</denominacio>
+		</fitxa>
+		<fitxa num="209">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">inanici&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">inanici&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">inanition</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">starvation</denominacio>
+		</fitxa>
+		<fitxa num="210">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">incipient</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">incipiente</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">incipient</denominacio>
+		</fitxa>
+		<fitxa num="211">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">incontin&#232;ncia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">incontinencia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">incontinence</denominacio>
+		</fitxa>
+		<fitxa num="212">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">incoordinaci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">incoordinaci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">incoordination</denominacio>
+		</fitxa>
+		<fitxa num="213">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">indigesti&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">indigesti&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">indigestion</denominacio>
+		</fitxa>
+		<fitxa num="214">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">insidi&#243;s &#45;osa</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">insidioso</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">insidious</denominacio>
+		</fitxa>
+		<fitxa num="215">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">insufici&#232;ncia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">insuficiencia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">insufficiency</denominacio>
+		</fitxa>
+		<fitxa num="216">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">intercurrent</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">intercurrente</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">intercurrent</denominacio>
+		</fitxa>
+		<fitxa num="217">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">intermissi&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">intermisi&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">intermission</denominacio>
+		</fitxa>
+		<fitxa num="218">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">intoxicaci&#243;</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">toxicosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">intoxicaci&#243;n</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">toxicosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">intoxication</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">poisoning</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">toxicosis</denominacio>
+		</fitxa>
+		<fitxa num="219">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">isosten&#250;ria</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">isostenuria</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">isosthenuria</denominacio>
+		</fitxa>
+		<fitxa num="220">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">larvat &#45;ada</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">larvado</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">larval</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">larvate</denominacio>
+		</fitxa>
+		<fitxa num="221">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">latent</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">latente</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">latent</denominacio>
+		</fitxa>
+		<fitxa num="222">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">limfogranuloma</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">linfogranuloma</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">lymphogranuloma</denominacio>
+		</fitxa>
+		<fitxa num="223">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">lisi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">lisis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">lysis</denominacio>
+		</fitxa>
+		<fitxa num="224">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">mal</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">mal</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">disease</denominacio>
+		</fitxa>
+		<fitxa num="225">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">malabsorci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">malabsorci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">malabsorption</denominacio>
+		</fitxa>
+		<fitxa num="226">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">malaltia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">enfermedad</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">disease</denominacio>
+		</fitxa>
+		<fitxa num="227">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">maldigesti&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">maldigesti&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">maldigestion</denominacio>
+		</fitxa>
+		<fitxa num="228">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">maligne &#45;a</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">maligno</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">malignant</denominacio>
+		</fitxa>
+		<fitxa num="229">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">melena</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">melena</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">melaena</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">melena</denominacio>
+		</fitxa>
+		<fitxa num="230">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">meningiomatosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">meningiomatosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">meningiomatosis</denominacio>
+		</fitxa>
+		<fitxa num="231">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">meningisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">meningismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">meningism</denominacio>
+		</fitxa>
+		<fitxa num="232">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">meteorisme</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m">inflament</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hinchamiento</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">meteorismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">balloonning</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">meteorism</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">meteorismus</denominacio>
+		</fitxa>
+		<fitxa num="233">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">meteoritzaci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">meteorizaci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">bloat</denominacio>
+		</fitxa>
+		<fitxa num="234">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">miast&#232;nia</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">amiost&#232;nia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">amiostenia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">miastenia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">amyosthenia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">myasthenia</denominacio>
+		</fitxa>
+		<fitxa num="235">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">micotoxicosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">micotoxicosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">mycotoxicosis</denominacio>
+		</fitxa>
+		<fitxa num="236">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">microsf&#237;gmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">microsfigmia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">microsphygmia</denominacio>
+		</fitxa>
+		<fitxa num="237">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">midriasi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">midriasis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">mydriasis</denominacio>
+		</fitxa>
+		<fitxa num="238">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">mioc&#224;rdia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">miocardia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">myocardia</denominacio>
+		</fitxa>
+		<fitxa num="239">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">miocl&#242;nia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">mioclon&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">myoclonia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">myoclonus</denominacio>
+		</fitxa>
+		<fitxa num="240">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">miosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">miosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">miosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">myosis</denominacio>
+		</fitxa>
+		<fitxa num="241">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">miotonia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">mioton&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">myotonia</denominacio>
+		</fitxa>
+		<fitxa num="242">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">mixedema</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">mixedema</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">myxedema</denominacio>
+		</fitxa>
+		<fitxa num="243">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">morb&#243;s &#45;osa</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">morboso</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">morbid</denominacio>
+		</fitxa>
+		<fitxa num="244">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">mort</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">muerte</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">death</denominacio>
+		</fitxa>
+		<fitxa num="245">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">n&#224;usea</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">nausea</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">nausea</denominacio>
+		</fitxa>
+		<fitxa num="246">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">neartrosi</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">neoartrosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">neartrosis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">neoartrosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">nearthrosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">neoarthrosis</denominacio>
+		</fitxa>
+		<fitxa num="247">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">nictalopia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">nictalop&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">night blindness</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">nyctalopia</denominacio>
+		</fitxa>
+		<fitxa num="248">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">nistagme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">nistagmo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">nystagmus</denominacio>
+		</fitxa>
+		<fitxa num="249">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">oftalmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">oftalm&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">ophthalmia</denominacio>
+		</fitxa>
+		<fitxa num="250">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">oncosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">oncosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">oncosis</denominacio>
+		</fitxa>
+		<fitxa num="251">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">ort&#242;ton</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">ort&#243;tonos</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">orthotonos</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">orthotonus</denominacio>
+		</fitxa>
+		<fitxa num="252">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">osteomal&#224;cia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">osteomalacia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">osteomalacia</denominacio>
+		</fitxa>
+		<fitxa num="253">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">panmieloptisi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">panmieloptisis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">panmyelophthisis</denominacio>
+		</fitxa>
+		<fitxa num="254">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">panteix</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">jadeo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">panting</denominacio>
+		</fitxa>
+		<fitxa num="255">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">papil&#183;lomatosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">papilomatosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">papillomatosis</denominacio>
+		</fitxa>
+		<fitxa num="256">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">paracm&#224;stic &#45;a</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">paragm&#225;stico</denominacio>
+		</fitxa>
+		<fitxa num="257">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">par&#224;lisi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">par&#225;lisis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">palsy</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">paralysis</denominacio>
+		</fitxa>
+		<fitxa num="258">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">par&#232;sia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">paresia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">paresis</denominacio>
+		</fitxa>
+		<fitxa num="259">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">paron&#237;quia</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">perion&#237;quia</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">perionixis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">paroniquia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">perioniquia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">perionixis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">paronychia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">perionychia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">perionychitis</denominacio>
+		</fitxa>
+		<fitxa num="260">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">paroxisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">paroxismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">paroxysm</denominacio>
+		</fitxa>
+		<fitxa num="261">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">patergia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">patergia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pathergy</denominacio>
+		</fitxa>
+		<fitxa num="262">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">patog&#232;nia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">patogenia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pathogeny</denominacio>
+		</fitxa>
+		<fitxa num="263">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">periostosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">periostosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">periostosis</denominacio>
+		</fitxa>
+		<fitxa num="264">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">peritonisme</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">pseudoperitonitis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">peritonismo</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">seudoperitonitis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">peritonism</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pseudoperitonitis</denominacio>
+		</fitxa>
+		<fitxa num="265">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">pi&#232;mia</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">pioh&#232;mia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">piemia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">piohemia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pyaemia &#91;GB&#93;</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pyemia &#91;US&#93;</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pyohemia</denominacio>
+		</fitxa>
+		<fitxa num="266">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">pin&#231;ament</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">pinzamiento</denominacio>
+		</fitxa>
+		<fitxa num="267">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">pneumot&#242;rax</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">neumot&#243;rax</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pneumothorax</denominacio>
+		</fitxa>
+		<fitxa num="268">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">polid&#237;psia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">polidipsia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">polydipsia</denominacio>
+		</fitxa>
+		<fitxa num="269">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">predisposici&#243;</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f">propensi&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">predisposici&#243;n</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">propensi&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">liability</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">predisposition</denominacio>
+		</fitxa>
+		<fitxa num="270">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">proc&#233;s</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">proceso</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">process</denominacio>
+		</fitxa>
+		<fitxa num="271">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">prostraci&#243;</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">postraci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">postraci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">prostration</denominacio>
+		</fitxa>
+		<fitxa num="272">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">pru&#239;ja</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">prurito</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">itch</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">itching</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pruritus</denominacio>
+		</fitxa>
+		<fitxa num="273">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">pseudoartrosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">seudartrosis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">seudoartrosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pseudarthrosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pseudoarthrosis</denominacio>
+		</fitxa>
+		<fitxa num="274">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">ptialisme</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">hipersialosi</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m">sialisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">hipersialosis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">sialismo</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">tialismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypersialism</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hypersialosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">ptyalism</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">sialismus</denominacio>
+		</fitxa>
+		<fitxa num="275">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">quadre cl&#237;nic</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">cuadro cl&#237;nico</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">clinical pattern</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">clinical picture</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">clinical presentation</denominacio>
+		</fitxa>
+		<fitxa num="276">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">quelo&#239;dosi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">queloidosis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">keloidosis</denominacio>
+		</fitxa>
+		<fitxa num="277">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">rabdomi&#242;lisi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">rabdomi&#243;lisis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">rhabdomyolysis</denominacio>
+		</fitxa>
+		<fitxa num="278">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">rabior</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">comez&#243;n</denominacio>
+		</fitxa>
+		<fitxa num="279">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">reactivaci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">reactivaci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">reactivation</denominacio>
+		</fitxa>
+		<fitxa num="280">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">recaiguda</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">reca&#237;da</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">relapse</denominacio>
+		</fitxa>
+		<fitxa num="281">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">recidiva</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">recidiva</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">recidivation</denominacio>
+		</fitxa>
+		<fitxa num="282">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">recrudesc&#232;ncia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">recrudescencia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">recrudescence</denominacio>
+		</fitxa>
+		<fitxa num="283">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">recuperaci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">recuperaci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">recuperation</denominacio>
+		</fitxa>
+		<fitxa num="284">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">recurr&#232;ncia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">recurrencia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">recurrence</denominacio>
+		</fitxa>
+		<fitxa num="285">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">reflux</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">reflujo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">reflux</denominacio>
+		</fitxa>
+		<fitxa num="286">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">remissi&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">remisi&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">remission</denominacio>
+		</fitxa>
+		<fitxa num="287">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">resoluci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">resoluci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">resolution</denominacio>
+		</fitxa>
+		<fitxa num="288">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">restrenyiment</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">constipaci&#243; de ventre</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">constipaci&#243;n</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">estreñimiento</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">constipation</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">costiveness</denominacio>
+		</fitxa>
+		<fitxa num="289">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">retor&#231;&#243;</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n m">retortill&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">retortij&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">stomach cramp</denominacio>
+		</fitxa>
+		<fitxa num="290">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">rictus</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">rictus</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">rictus</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">risus</denominacio>
+		</fitxa>
+		<fitxa num="291">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m/f">rubor</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">rubor</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">redness</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">rubor</denominacio>
+		</fitxa>
+		<fitxa num="292">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">saburra</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">saburra</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">saburra</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">sordes</denominacio>
+		</fitxa>
+		<fitxa num="293">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">secundari &#45;&#224;ria</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">secundario</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">secondary</denominacio>
+		</fitxa>
+		<fitxa num="294">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">s&#232;psia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">sepsis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">sepsis</denominacio>
+		</fitxa>
+		<fitxa num="295">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">seq&#252;ela</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">secuela</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">sequela</denominacio>
+		</fitxa>
+		<fitxa num="296">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">signe</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">signo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">sign</denominacio>
+		</fitxa>
+		<fitxa num="297">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">signe patogn&#242;mic</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m">signe patognom&#242;nic</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">signo patogn&#243;mico</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">signo patognom&#243;nico</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pathognomic sign</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">pathognomonic sign</denominacio>
+		</fitxa>
+		<fitxa num="298">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">simpaticotonia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">simpaticoton&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">sympathicotonia</denominacio>
+		</fitxa>
+		<fitxa num="299">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">s&#237;mptoma</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">s&#237;ntoma</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">symptom</denominacio>
+		</fitxa>
+		<fitxa num="300">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">s&#237;nclon</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m">s&#237;nclonus</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">sinclono</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">synclonus</denominacio>
+		</fitxa>
+		<fitxa num="301">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">s&#237;ncope</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">s&#237;ncope</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">fainting</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">syncope</denominacio>
+		</fitxa>
+		<fitxa num="302">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">s&#237;ndrome</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">s&#237;ndrome</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">syndrome</denominacio>
+		</fitxa>
+		<fitxa num="303">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">soluci&#243;</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">soluci&#243;n</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">solution</denominacio>
+		</fitxa>
+		<fitxa num="304">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">somnol&#232;ncia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">somnolencia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">sleepiness</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">somnolence</denominacio>
+		</fitxa>
+		<fitxa num="305">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m/f">sopor</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">sopitesa</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">sopor</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">deep sleep</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">sopor</denominacio>
+		</fitxa>
+		<fitxa num="306">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">sordesa</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">sordera</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">deafness</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">hearing loss</denominacio>
+		</fitxa>
+		<fitxa num="307">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">subagut &#45;uda</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">subagudo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">subacute</denominacio>
+		</fitxa>
+		<fitxa num="308">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">subcl&#237;nic &#45;a</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">subcl&#237;nico</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">subclinical</denominacio>
+		</fitxa>
+		<fitxa num="309">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">supl&#232;ncia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">suplencia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">contraregulation</denominacio>
+		</fitxa>
+		<fitxa num="310">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">taquiar&#237;tmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">taquiarritmia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">tachyarrhythmia</denominacio>
+		</fitxa>
+		<fitxa num="311">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">taquic&#224;rdia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">taquicardia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">tachycardia</denominacio>
+		</fitxa>
+		<fitxa num="312">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">temperatura</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">temperatura</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">temperature</denominacio>
+		</fitxa>
+		<fitxa num="313">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">tic</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">tic</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">tic</denominacio>
+		</fitxa>
+		<fitxa num="314">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">tiro&#239;disme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">tiroidismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">thyroidism</denominacio>
+		</fitxa>
+		<fitxa num="315">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">tolidura</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">tullimiento</denominacio>
+		</fitxa>
+		<fitxa num="316">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="adj">t&#242;rpid &#45;a</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">t&#243;rpido</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">torpid</denominacio>
+		</fitxa>
+		<fitxa num="317">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">torpor</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">embotamiento</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">torpeza</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">torpor</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">dullness</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">torpor</denominacio>
+		</fitxa>
+		<fitxa num="318">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">tos</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">tos</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">cough</denominacio>
+		</fitxa>
+		<fitxa num="319">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">tox&#232;mia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">toxemia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">toxaemia &#91;GB&#93;</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">toxemia &#91;US&#93;</denominacio>
+		</fitxa>
+		<fitxa num="320">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">toxicod&#232;rmia</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">toxicodermatosi</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">toxid&#232;rmia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">toxicodermatosis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">toxicodermia</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">toxicoderma</denominacio>
+		</fitxa>
+		<fitxa num="321">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">trastorn</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">trastorno</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">disorder</denominacio>
+		</fitxa>
+		<fitxa num="322">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m/f">tremolor</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">temblor</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">trembling</denominacio>
+		</fitxa>
+		<fitxa num="323">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">trisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">trismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">lockjaw</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">trismus</denominacio>
+		</fitxa>
+		<fitxa num="324">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">urolitiasi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">urolitiasis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">urolithiasis</denominacio>
+		</fitxa>
+		<fitxa num="325">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">urtic&#224;ria</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">urticaria</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">nettle rash</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">urticaria</denominacio>
+		</fitxa>
+		<fitxa num="326">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">vaginisme</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">vaginismo</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">vaginismus</denominacio>
+		</fitxa>
+		<fitxa num="327">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">vagotonia</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">vagoton&#237;a</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">vagotonia</denominacio>
+		</fitxa>
+		<fitxa num="328">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">v&#242;mit</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f">emesi</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">emesis</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">v&#243;mito</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">emesis</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">vomit</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">vomiting</denominacio>
+		</fitxa>
+		<fitxa num="329">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f">xacra</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">achaque</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">ailment</denominacio>
+		</fitxa>
+		<fitxa num="330">
+			<areatematica>Fisiopatologia</areatematica>
+			<denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m">xoc</denominacio>
+			<denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m">col&#183;lapse cardiocirculatori</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">choque</denominacio>
+			<denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="">colapso circulatorio</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">circulatory collapse</denominacio>
+			<denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="">shock</denominacio>
+		</fitxa>
+	</fitxes>
+</terminologiaoberta>

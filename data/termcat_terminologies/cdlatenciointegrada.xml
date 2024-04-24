@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cessiodades>
+  <autor>TERMCAT, Centre de Terminologia</autor>
+  <titol>Terminologia de l'atenció integrada</titol>
+  <fitxes>
+    <fitxa num="1">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m pl"><![CDATA[actius comunitaris]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m pl"><![CDATA[activos comunitarios]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n pl"><![CDATA[community assets]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Conjunt de recursos de què disposa una comunitat que permeten el desenvolupament de mesures per a millorar la salut i el benestar de les persones d'aquesta comunitat.]]></definicio>
+    </fitxa>
+    <fitxa num="2">
+      <areatematica><![CDATA[Persones > Atributs intrínsecs]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[apoderament]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[capacitación]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[empoderamiento]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[fortalecimiento]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[potenciación]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[empowerment]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Procés pel qual una persona, un grup de persones o una comunitat adquireix els mitjans per a enfortir el seu potencial en la gestió de la seva salut i el seu benestar.]]></definicio>
+    </fitxa>
+    <fitxa num="3">
+      <areatematica><![CDATA[Conceptes generals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m pl"><![CDATA[cuidados]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Conjunt d'activitats que tenen per finalitat ajudar persones, grups o comunitats a satisfer les necessitats que no són a l'abast dels seus mitjans i a desenvolupar les capacitats que els permetin millorar la salut i el benestar.]]></definicio>
+    </fitxa>
+    <fitxa num="4">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció 7×24]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención 7×24]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[24/7 care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció social o sanitària que s'ofereix durant les 24 hores del dia cada dia de la setmana, la qual permet garantir la resposta d'atenció en qualsevol moment.]]></definicio>
+    </fitxa>
+    <fitxa num="5">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció a les transicions]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención transicional]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[transitional care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció social o sanitària que garanteix la congruència i l'adequació de la resposta d'atenció durant les transicions assistencials.]]></definicio>
+    </fitxa>
+    <fitxa num="6">
+      <areatematica><![CDATA[Conceptes generals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció centrada en la persona]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sigla" categoria="n f"><![CDATA[ACP]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención centrada en la persona]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[person-centred care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Model d'atenció integrada en què la persona atesa és part activa de la planificació, el desenvolupament i l'avaluació del procés d'atenció, amb l'objectiu que aconsegueixi els  màxims nivells possibles de salut, qualitat de vida i benestar, i se li respectin la dignitat, els drets, les necessitats i les preferències.]]></definicio>
+    </fitxa>
+    <fitxa num="7">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció compartida]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención compartida]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[collaborative care]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[shared care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció en què intervenen conjuntament professionals de diversos àmbits i nivells d'atenció, que comparteixen informació i objectius i, si escau, prenen decisions de manera conjunta, per a garantir l'atenció integrada .]]></definicio>
+    </fitxa>
+    <fitxa num="8">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció continuada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención continuada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m pl"><![CDATA[cuidados continuos]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[continuing care]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[ongoing care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció social o sanitària que garanteix el seguiment de la persona atesa d'acord amb un pla d'atenció compartit.]]></definicio>
+    </fitxa>
+    <fitxa num="9">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció de llarga durada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[asistencia de larga duración]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención de larga duración]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m pl"><![CDATA[cuidados de larga duración]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[long-term care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció social o sanitària que es presta de manera prolongada en el temps a persones amb dependència.]]></definicio>
+    </fitxa>
+    <fitxa num="10">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció domiciliària]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[asistencia a domicilio]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[asistencia domiciliaria]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención a domicilio]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención domiciliaria]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[domiciliary care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció social o sanitària que es presta a una persona en el lloc on viu, amb l'objectiu de mantenir-la en el seu entorn habitual i aconseguir així el seu màxim nivell de salut, qualitat de vida, benestar i autonomia.]]></definicio>
+    </fitxa>
+    <fitxa num="11">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció especialitzada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención especializada]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[secondary care]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[specialised care]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[tertiary care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció social o sanitària que es presta a persones amb necessitats complexes en serveis especialitzats en aquest tipus d'atenció.]]></definicio>
+    </fitxa>
+    <fitxa num="12">
+      <areatematica><![CDATA[Conceptes generals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció integrada]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[atenció sociosanitària]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención integrada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención sociosanitaria]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[integrated care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Model d'atenció basat en les actuacions conjuntes i solidàries dels professionals i les organitzacions dels serveis socials i dels serveis sanitaris, que té com a objectiu obtenir bons resultats en salut i benestar, una adequada utilització dels recursos i una bona experiència d'atenció, amb el qual es garanteix l'atenció integral i l'atenció centrada en la persona.]]></definicio>
+    </fitxa>
+    <fitxa num="13">
+      <areatematica><![CDATA[Conceptes generals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció integral]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención integral]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[integral care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Model d'atenció que garanteix una gestió global de les necessitats de la persona en la dimensió física, funcional, psíquica i social, a partir d'una valoració integral.]]></definicio>
+    </fitxa>
+    <fitxa num="14">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció intermèdia]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención intermedia]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m pl"><![CDATA[cuidados intermedios]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[intermediate care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció especialitzada, adreçada especialment a persones grans o a malalts crònics, que presten equips interdisciplinaris amb protocols, registres i un marc d'avaluació comuns, amb la finalitat d'aconseguir el màxim nivell d'autonomia de la persona atesa o una estabilitat clínica que li permeti retornar al seu domicili habitual o continuar-hi vivint.]]></definicio>
+    </fitxa>
+    <fitxa num="15">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció no presencial]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención no presencial]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[non-presential care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció social o sanitària basada en mitjans remots o virtuals de comunicació interpersonal.]]></definicio>
+    </fitxa>
+    <fitxa num="16">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció personalitzada]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención personalizada]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[personalised care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció que respon a una valoració integral de la persona i s'adapta a les seves necessitats i preferències, d'acord amb els plantejaments de l'atenció centrada en la persona.]]></definicio>
+    </fitxa>
+    <fitxa num="17">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció preventiva]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención preventiva]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[preventive care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció que es presta a persones, grups o comunitats amb factors de risc socials o sanitaris per a evitar, minimitzar o eradicar amb la màxima anticipació possible problemes de salut o de benestar i el seu impacte.]]></definicio>
+    </fitxa>
+    <fitxa num="18">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció primària]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención primaria]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[primary care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció social o sanitària de caràcter assistencial, polivalent, comunitari i preventiu que constitueix el primer nivell de contacte de les persones amb els serveis públics socials i sanitaris, amb el qual es garanteix la proximitat i l'accessibilitat a aquests serveis.]]></definicio>
+    </fitxa>
+    <fitxa num="19">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[atenció proactiva]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[atención proactiva]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m pl"><![CDATA[cuidados proactivos]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[proactive care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Atenció social o sanitària basada en una resposta anticipada a les necessitats de les persones.]]></definicio>
+    </fitxa>
+    <fitxa num="20">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[autocura]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[autocuidado]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m pl"><![CDATA[cuidados personales]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[self-care]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[self-management]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Conjunt d'accions que, a partir de l'apoderament, duu a terme una persona per a mantenir la seva salut i el seu benestar.]]></definicio>
+    </fitxa>
+    <fitxa num="21">
+      <areatematica><![CDATA[Persones > Atributs intrínsecs]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[autodeterminació]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[autodeterminación]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[self-determination]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Capacitat d'una persona de controlar, afrontar i prendre, per pròpia iniciativa, decisions personals sobre com viure d'acord amb les normes i preferències pròpies.]]></definicio>
+    </fitxa>
+    <fitxa num="22">
+      <areatematica><![CDATA[Persones > Situacions personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[autonomia]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[autonomia personal]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[autonomía]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[autonomía personal]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[autonomy]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[individual autonomy]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[personal autonomy]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Capacitat d'una persona de desenvolupar les activitats bàsiques de la vida diària o de prendre decisions sobre els aspectes que afecten la seva vida.]]></definicio>
+    </fitxa>
+    <fitxa num="23">
+      <areatematica><![CDATA[Conceptes generals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[benestar]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[bienestar]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[welfare]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[well-being]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Situació en què es troben satisfetes les necessitats de les diferents dimensions de la vida d'una persona, incloent-hi els aspectes físics, psíquics i socials.]]></definicio>
+    </fitxa>
+    <fitxa num="24">
+      <areatematica><![CDATA[Persones > Atributs intrínsecs]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[capacitat]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[capacidad]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[capacity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Conjunt d'aptituds d'una persona per a realitzar una activitat determinada.]]></definicio>
+    </fitxa>
+    <fitxa num="25">
+      <areatematica><![CDATA[Persones > Situacions personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[complexitat]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[complejidad]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[complex situation]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[complexity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Situació d'una persona que presenta un perfil de necessitats complexes que requereixen una atenció compartida.]]></definicio>
+    </fitxa>
+    <fitxa num="26">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[continuïtat assistencial]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n m"><![CDATA[contínuum assistencial]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[continuidad asistencial]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[continuity of care]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[continuum of care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Manteniment de l'atenció prestada a una persona, que es basa en la coordinació entre els diferents serveis socials i sanitaris i en la coherència de les seves actuacions al llarg del temps.]]></definicio>
+    </fitxa>
+    <fitxa num="27">
+      <areatematica><![CDATA[Persones > Atributs intrínsecs]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[creença]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[creencia]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[belief]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Idea que una persona admet com a certa.]]></definicio>
+    </fitxa>
+    <fitxa num="28">
+      <areatematica><![CDATA[Persones > Situacions personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[cronicitat]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[cronicidad]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[chronicity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Conjunt de problemes socials o de salut de llarga durada i dels efectes que produeixen sobre les persones o sobre els grups poblacionals, el seu entorn, el sistema sanitari o de serveis socials i la societat en general.]]></definicio>
+    </fitxa>
+    <fitxa num="29">
+      <areatematica><![CDATA[Persones > Subjectes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m, f"><![CDATA[cuidador | cuidadora]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m, f"><![CDATA[cuidador | cuidadora]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[care-giver]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[caregiver]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[carer]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Persona que presta el suport necessari perquè una persona dependent pugui gaudir dels màxim nivells de salut i benestar d'acord amb la seva condició.]]></definicio>
+    </fitxa>
+    <fitxa num="30">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[decisió compartida]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[decisión compartida]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[shared decision]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Decisió presa de manera consensuada entre els professionals i la persona atesa o, si escau, el seu entorn.]]></definicio>
+    </fitxa>
+    <fitxa num="31">
+      <areatematica><![CDATA[Persones > Situacions personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[dependència]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[dependencia]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[dependency]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Estat permanent o transitori d'una persona que necessita l'ajuda d'una altra persona per a dur a terme les activitats de la vida diària o per a prendre decisions sobre els aspectes que afecten la seva vida.]]></definicio>
+    </fitxa>
+    <fitxa num="32">
+      <areatematica><![CDATA[Persones > Atributs intrínsecs]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[dignitat]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[dignidad]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[dignity]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Valor que expressa el dret de tot ésser humà a ser tractat amb respecte, sense ser ofès ni utilitzat.]]></definicio>
+    </fitxa>
+    <fitxa num="33">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[dimensió comunitària]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[dimensión comunitaria]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[community approach]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[community-based approach]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Enfocament de les intervencions socials i sanitàries que té en compte el grup i la comunitat de les persones a l'hora d'atendre les seves necessitats.]]></definicio>
+    </fitxa>
+    <fitxa num="34">
+      <areatematica><![CDATA[Persones > Situacions personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[discapacitat]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[discapacidad]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[disability]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Resultat de la interacció entre el dèficit en el funcionament d'una estructura o una funció corporal d'una persona i les barreres de l'entorn, que pot limitar o impedir la seva participació plena i efectiva en la societat.]]></definicio>
+    </fitxa>
+    <fitxa num="35">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[enfocament interdisciplinari]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[enfoque interdisciplinar]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[enfoque interdisciplinario]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[interdisciplinary approach]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Enfocament del procés d'atenció basat en la cooperació de professionals de diferents àmbits i disciplines, que treballen de manera conjunta i simultània amb un objectiu compartit.]]></definicio>
+    </fitxa>
+    <fitxa num="36">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[enfocament multidisciplinari]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[enfoque multidisciplinar]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[enfoque multidisciplinario]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[multidisciplinary approach]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Enfocament del procés d'atenció basat en la participació de professionals de diferents àmbits i disciplines, que aporten coneixements propis de la seva disciplina.]]></definicio>
+    </fitxa>
+    <fitxa num="37">
+      <areatematica><![CDATA[Conceptes generals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[envelliment actiu]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n m"><![CDATA[envelliment saludable]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[envejecimiento activo]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[envejecimiento saludable]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vejez activa]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[active aging]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[successful aging]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Procés d'optimització de les oportunitats de benestar físic, psíquic i social, de participació i de seguretat amb la finalitat de millorar la qualitat de vida en el curs de l'envelliment.]]></definicio>
+    </fitxa>
+    <fitxa num="38">
+      <areatematica><![CDATA[Conceptes generals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[experiència d'atenció]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[experiencia de atención]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[experiencia en la atención]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[care experience]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[experience of care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Percepció d'una persona atesa sobre l'atenció rebuda en els serveis socials o sanitaris, fruit del conjunt de factors que intervenen en el procés d'atenció.]]></definicio>
+    </fitxa>
+    <fitxa num="39">
+      <areatematica><![CDATA[Persones > Impactes personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[factor de risc]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[factor de riesgo]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[risk factor]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Factor que al llarg del temps pot fer augmentar la probabilitat d'una persona de desenvolupar o de presentar un problema social o de salut.]]></definicio>
+    </fitxa>
+    <fitxa num="40">
+      <areatematica><![CDATA[Persones > Situacions personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[fragilitat]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[fragilidad]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[fragility]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Estat de vulnerabilitat d'una persona que comporta un risc elevat de presentar situacions de salut adverses.]]></definicio>
+    </fitxa>
+    <fitxa num="41">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[gestió de cas]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[gestión de caso]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[gestión de casos]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[gestión por casos]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[manejo de casos]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[case management]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Procés de gestió assistencial d'una persona amb necessitats complexes que garanteix l'acompliment de les actuacions previstes en el pla d'atenció compartit.]]></definicio>
+    </fitxa>
+    <fitxa num="42">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[governança territorial]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[gobernanza territorial]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[territorial governance]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Exercici de govern que té com a objectiu establir les mesures adreçades a l'aplicació del model d'atenció integrada en un territori determinat i a fer-ne el seguiment.]]></definicio>
+    </fitxa>
+    <fitxa num="43">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[guia de pràctica clínica]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sigla" categoria="n f"><![CDATA[GPC]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[guía de práctica clínica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[GPC]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[clinical guideline]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n pl"><![CDATA[clinical practice guidelines]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[practice guideline]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n pl"><![CDATA[CPG]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Conjunt de recomanacions basades en l'evidència científica i desenvolupades de manera sistemàtica per a ajudar els professionals i les persones en la presa de decisions a l'hora d'atendre un problema de salut en circumstàncies clíniques específiques, i que contribueixen a disminuir la variabilitat en la pràctica assistencial entre els professionals.]]></definicio>
+    </fitxa>
+    <fitxa num="44">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[història clínica i social compartida]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sigla" categoria="n f"><![CDATA[HCSC]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[historia clínica y social compartida]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[integrated electronic health record]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Instrument electrònic que conté dades, informació i valoracions clíniques i socials sobre la situació i l'evolució d'una persona atesa al llarg del seu procés assistencial, i que segueix un model de gestió descentralitzada que permet als professionals sanitaris i dels serveis socials accedir a tota la informació actualitzada i rellevant de les persones ateses, independentment de l'àmbit assistencial o de la ubicació geogràfica.]]></definicio>
+    </fitxa>
+    <fitxa num="45">
+      <areatematica><![CDATA[Persones > Situacions personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[malaltia crònica avançada]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sigla" categoria="n f"><![CDATA[MACA]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[enfermedad crónica avanzada]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[end stage chronic disease]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[end-stage chronic disease]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Malaltia crònica amb pronòstic de vida limitat i necessitats pal·liatives emergents.]]></definicio>
+    </fitxa>
+    <fitxa num="46">
+      <areatematica><![CDATA[Persones > Situacions personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[malaltia crònica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[enfermedad crónica]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[chronic disease]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Malaltia que té un curs evolutiu llarg i sovint de progressió lenta.]]></definicio>
+    </fitxa>
+    <fitxa num="47">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[model d'atenció]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[modelo de atención]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[care model]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[model of care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Conjunt de mesures estructurades que permeten prestar atenció a les persones amb un enfocament determinat.]]></definicio>
+    </fitxa>
+    <fitxa num="48">
+      <areatematica><![CDATA[Persones > Situacions personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[necessitat complexa]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[necessitat d'atenció complexa]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[necesidad compleja]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[complex need]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Necessitat social o sanitària de difícil gestió.]]></definicio>
+    </fitxa>
+    <fitxa num="49">
+      <areatematica><![CDATA[Persones > Impactes personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[necessitat]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[necessitat d'atenció]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[necesidad]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[necessity]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[need]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Requeriment d'atenció d'una persona a causa de mancances socials o sanitàries que limiten la seva capacitat de gaudir de bona salut i benestar.]]></definicio>
+    </fitxa>
+    <fitxa num="50">
+      <areatematica><![CDATA[Persones > Subjectes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m, f"><![CDATA[pacient]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m, f"><![CDATA[paciente]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[patient]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Persona que presenta un problema de salut o més d'un i rep atenció sanitària.]]></definicio>
+    </fitxa>
+    <fitxa num="51">
+      <areatematica><![CDATA[Persones > Subjectes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m, f"><![CDATA[pacient crònic | pacient crònica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m, f"><![CDATA[paciente crónico | paciente crónica]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[chronic care patient]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[chronic patient]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Pacient que presenta un problema de salut de llarga durada o més d'un.]]></definicio>
+    </fitxa>
+    <fitxa num="52">
+      <areatematica><![CDATA[Persones > Subjectes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m, f"><![CDATA[pacient crònic complex | pacient crònica complexa]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sigla" categoria="n m, f"><![CDATA[PCC]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m, f"><![CDATA[paciente crónico complejo | paciente crónica compleja]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[chronic complex patient]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[complex chronic patient]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[multimorbid chronic patient]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[patient with multichronic conditions]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Pacient crònic amb una situació de complexitat.]]></definicio>
+    </fitxa>
+    <fitxa num="53">
+      <areatematica><![CDATA[Persones > Subjectes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m, f"><![CDATA[pacient expert | pacient experta]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m, f"><![CDATA[paciente experto | paciente experta]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[expert patient]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Pacient crònic que és capaç de responsabilitzar-se del seu problema de salut i tenir-ne autocura, identificant els símptomes i afrontant-los, i adquirint eines per a gestionar-ne l'impacte físic, psíquic i social, de manera que hi pot conviure i pot millorar la seva qualitat de vida relacionada amb la salut.]]></definicio>
+    </fitxa>
+    <fitxa num="54">
+      <areatematica><![CDATA[Persones > Subjectes]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[persona amb necessitats d’atenció social complexes]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sigla" categoria="n f"><![CDATA[PNASC]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[person with complex social care needs]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Persona amb necessitats d'atenció social que ocasionen una situació de complexitat.]]></definicio>
+    </fitxa>
+    <fitxa num="55">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[pla d'atenció compartit]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[plan de atención compartido]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[shared care plan]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Projecte ordenat d'atenció social o sanitària d'una persona que recull els objectius, les activitats, les tasques, els recursos, les prestacions, les responsabilitats, la temporització i els mecanismes de seguiment acordats entre la persona atesa i el seu entorn o els professionals que l'atenen amb la finalitat de respondre de forma proactiva a les necessitats identificades de forma prioritària.]]></definicio>
+    </fitxa>
+    <fitxa num="56">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[pla funcional d'atenció integrada]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Pacte documentat que consensuen els professionals i les organitzacions dels diferents àmbits assistencials que operen en un mateix territori i atenen de manera integrada una mateixa població, per a aplicar els criteris de bona pràctica, optimitzar els circuits assistencials i planificar les respostes davant d'escenaris previsibles.]]></definicio>
+    </fitxa>
+    <fitxa num="57">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[planificació de decisions anticipades]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sigla" categoria="n m"><![CDATA[PDA]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[plan de decisiones anticipadas]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[advance care planning]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Procés que identifica els valors i les preferències d'una persona, o la seva família, si escau, per a preveure amb antelació els objectius d'atenció i els recursos que es necessitaran per a atendre'l quan no pugui expressar la seva voluntat.]]></definicio>
+    </fitxa>
+    <fitxa num="58">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[planificació de l'alta]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[planificación del alta]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[discharge planning]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Preparació d'un pla ordenat d'actuacions que s'elabora per a garantir la continuïtat assistencial d'una persona que és donada d'alta d'un servei d'atenció especialitzada.]]></definicio>
+    </fitxa>
+    <fitxa num="59">
+      <areatematica><![CDATA[Persones > Impactes personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[població de risc]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sin. compl." categoria="n f"><![CDATA[població vulnerable]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[grupo de riesgo]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[población de riesgo]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[población en situación de riesgo]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[población expuesta]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[población vulnerable]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[at-risk population]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[population at risk]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[risk group]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[risk population]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sin. compl." categoria="n"><![CDATA[group at risk]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Grup de persones que tenen una probabilitat alta de desenvolupar un problema social o de salut, a causa d'un o diversos factors de risc.]]></definicio>
+    </fitxa>
+    <fitxa num="60">
+      <areatematica><![CDATA[Persones > Atributs intrínsecs]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[preferència]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[preferencia]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[preferencia en salud]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[health preference]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Opció d'atenció o d'intervenció d'un servei social o sanitari a què atorga prioritat una persona atesa respecte d'altres opcions.]]></definicio>
+    </fitxa>
+    <fitxa num="61">
+      <areatematica><![CDATA[Conceptes generals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[problema crònic]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[problema crónico]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[chronic condition]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Problema social o de salut de llarga durada.]]></definicio>
+    </fitxa>
+    <fitxa num="62">
+      <areatematica><![CDATA[Persones > Situacions personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[problema de salut]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[problema de salud]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[health problem]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Problema relacionat amb un estat o procés relatiu a la salut, manifestat per una persona, una família o una comunitat.]]></definicio>
+    </fitxa>
+    <fitxa num="63">
+      <areatematica><![CDATA[Persones > Situacions personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[problema social]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[problema social]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[social problem]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Problema relacionat amb un estat o procés relatiu al benestar, manifestat per una persona, una família o una comunitat.]]></definicio>
+    </fitxa>
+    <fitxa num="64">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m, f"><![CDATA[professional de referència]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m, f"><![CDATA[profesional de referencia]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[healthcare provider]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Professional sanitari o dels serveis socials que actua com a interlocutor principal amb una persona atesa i la seva família, lidera la planificació de la resposta d'atenció social i sanitària i s'ocupa de la coherència i la coordinació entre els diferents serveis d'atenció.]]></definicio>
+    </fitxa>
+    <fitxa num="65">
+      <areatematica><![CDATA[Model d'atenció]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m, f"><![CDATA[professional expert | professional experta]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m, f"><![CDATA[profesional experto | profesional experta]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[expert professional]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Professional sanitari o dels serveis socials altament capacitat per a la gestió d'algun dels problemes socials o de salut que pot presentar una persona.]]></definicio>
+    </fitxa>
+    <fitxa num="66">
+      <areatematica><![CDATA[Persones > Atributs intrínsecs]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[projecte de vida]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n m"><![CDATA[projecte vital]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[proyecto vital]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Projecte que segueix una persona, d'acord amb els seus valors, conviccions i preferències, per a realitzar els objectius que persegueix i que donen sentit a la seva vida]]></definicio>
+    </fitxa>
+    <fitxa num="67">
+      <areatematica><![CDATA[Conceptes generals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[qualitat de vida]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="sigla" categoria="n f"><![CDATA[QV]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[calidad de vida]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="sigla" categoria="n f"><![CDATA[CV]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[quality of life]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="sigla" categoria="n"><![CDATA[QOL]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Percepció que té una persona de la seva condició de vida, determinada a partir de l'escala de valors, les aspiracions i les expectatives personals en els diferents àmbits de la vida personal, familiar i social.]]></definicio>
+    </fitxa>
+    <fitxa num="68">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[ruta assistencial]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[via clínica]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vía clínica]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[clinical pathway]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Concreció operativa d'un pacte funcional d'atenció integrada en un context territorial i un moment determinats.]]></definicio>
+    </fitxa>
+    <fitxa num="69">
+      <areatematica><![CDATA[Conceptes generals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[salut]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[salud]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[health]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Estat de benestar físic, psíquic i social, relacionat amb l'absència de malalties i dolor i amb la voluntat d'optimització del potencial personal.]]></definicio>
+    </fitxa>
+    <fitxa num="70">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[transició assistencial]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[transición asistencial]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[care transition]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[transfer of care]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Procés de transferència d'una persona atesa entre ubicacions, serveis, nivells d'atenció o àmbits assistencials diferents.]]></definicio>
+    </fitxa>
+    <fitxa num="71">
+      <areatematica><![CDATA[Persones > Atributs intrínsecs]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n m"><![CDATA[valor]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n m"><![CDATA[valor]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[value]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Principi que s'estableix a partir de les creences sobre la naturalesa humana, que orienta la conducta d'una persona i la influencia en la presa de decisions i en les actuacions.]]></definicio>
+    </fitxa>
+    <fitxa num="72">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[valoració compartida]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[valoración compartida]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[shared assessment]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Valoració d'una persona atesa mitjançant la intervenció conjunta de professionals de diversos àmbits i disciplines i amb la participació d'aquesta persona.]]></definicio>
+    </fitxa>
+    <fitxa num="73">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[valoració integral]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[valoración integral]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[comprehensive assessment]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Valoració multidimensional d'una persona atesa, dissenyada per a identificar i quantificar les necessitats físiques, funcionals, psíquiques i socials que presenta aquesta persona i les seves expectatives, valors i preferències.]]></definicio>
+    </fitxa>
+    <fitxa num="74">
+      <areatematica><![CDATA[Persones > Situacions personals]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[vulnerabilitat social]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[vulnerabilidad social]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[social vulnerability]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Estat caracteritzat per un cúmul de condicionants i factors de risc en l'entorn social d'una persona, que comporta que tingui una probabilitat alta de presentar problemes socials greus.]]></definicio>
+    </fitxa>
+    <fitxa num="75">
+      <areatematica><![CDATA[Instruments]]></areatematica>
+      <denominacio llengua="ca" tipus="principal" jerarquia="terme pral." categoria="n f"><![CDATA[xarxa de suport]]></denominacio>
+      <denominacio llengua="ca" tipus="remissio" jerarquia="terme pral." categoria="n f"><![CDATA[xarxa social de suport]]></denominacio>
+      <denominacio llengua="es" tipus="equivalent" jerarquia="terme pral." categoria="n f"><![CDATA[red social]]></denominacio>
+      <denominacio llengua="en" tipus="equivalent" jerarquia="terme pral." categoria="n"><![CDATA[social network]]></denominacio>
+      <definicio llengua="ca"><![CDATA[Conjunt de relacions socials d'una persona amb les persones i grups del seu entorn, que actua com un element de reforç per a afrontar diferents situacions de la vida d'aquesta persona.]]></definicio>
+    </fitxa>
+  </fitxes>
+</cessiodades>
