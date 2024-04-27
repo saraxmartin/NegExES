@@ -10,7 +10,7 @@ class MedicalReportTagger:
         # Define patterns for negation and uncertainty using the terms
         self.negation_pattern = re.compile('|'.join(self.negation_terms), re.IGNORECASE)
         self.uncertainty_pattern = re.compile('|'.join(self.uncertainty_terms), re.IGNORECASE)
-        self.conjunctions = re.compile('|'.join(self.conjunctions), re.IGNORECASE)
+        self.conjunctions_pattern = re.compile('|'.join(self.conjunctions), re.IGNORECASE)
 
     
     def tag_negation_and_uncertainty(self, text):
