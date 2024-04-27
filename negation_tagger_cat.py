@@ -5,11 +5,14 @@ class MedicalReportTagger:
         # Define negation and uncertainty terms in Catalan
         self.negation_terms = negation_terms
         self.uncertainty_terms = uncertainty_terms
+        self.conjunctions = conjunctions
         
         # Define patterns for negation and uncertainty using the terms
         self.negation_pattern = re.compile('|'.join(self.negation_terms), re.IGNORECASE)
         self.uncertainty_pattern = re.compile('|'.join(self.uncertainty_terms), re.IGNORECASE)
+        self.conjunctions = re.compile('|'.join(self.conjunctions), re.IGNORECASE)
 
+    
     def tag_negation_and_uncertainty(self, text):
         # Initialize results list
         results = []
@@ -62,13 +65,13 @@ class MedicalReportTagger:
 
     def find_sentence_start(self, text, index):
         # Find the start of the sentence containing the index
-        while index > 0 and text[index] not in ".?!":
+        while index > 0 and text[index] not in ".?!" and text[index] not in self.conjunctions:
             index -= 1
         return index + 1
     
     def find_sentence_end(self, text, index):
         # Find the end of the sentence containing the index
-        while index < len(text) and text[index] not in ".?!":
+        while index < len(text) and text[index] not in ".?!" and text[index] not in self.conjunctions:
             index += 1
         return index
 
