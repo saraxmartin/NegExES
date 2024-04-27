@@ -36,9 +36,8 @@ class MedicalReportTagger:
         # Process uncertainty terms
         for match in self.uncertainty_pattern.finditer(text):
             start, end = match.span()
-            end+=1
             results.append({
-                "value": {"start": start, "end": end, "labels": ["UNC"]},
+                "value": {"start": start, "end": end+1, "labels": ["UNC"]},
                 "type": "labels"
             })
             # Determine the scope of uncertainty
