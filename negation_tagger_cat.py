@@ -46,13 +46,6 @@ class MedicalReportTagger:
                 "value": {"start": scope_start, "end": scope_end, "labels": ["USCO"]},
                 "type": "labels"
             })
-
-        return results
-
-    def tag_medical_terms(self, text):
-        # Initialize results list
-        results = []
-        
         # Process medical terms
         for match in self.medical_pattern.finditer(text):
             start, end = match.span()
@@ -60,7 +53,15 @@ class MedicalReportTagger:
                 "value": {"start": start, "end": end, "labels": ["UMLS"]},
                 "type": "labels"
             })
+
         return results
+
+    # def tag_medical_terms(self, text):
+    #     # Initialize results list
+    #     results = []
+        
+        
+    #     return results
     
     def find_negation_scope(self, text, start, end):
         # Identify the scope of negation
