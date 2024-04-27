@@ -22,7 +22,6 @@ class MedicalReportTagger:
         # Process negation terms
         for match in self.negation_pattern.finditer(text):
             start, end = match.span()
-            entity_id += 1
             # Create a result with the specified fields
             results.append({
                 "value": {"start": start, "end": end, "labels": ["NEG"]},
@@ -31,9 +30,9 @@ class MedicalReportTagger:
                 "to_name": "text",
                 "type": "labels"
             })
+            entity_id += 1
             # Determine the scope of negation
             scope_start, scope_end = self.find_negation_scope(text, start, end)
-            entity_id += 1
             results.append({
                 "value": {"start": scope_start, "end": scope_end, "labels": ["NSCO"]},
                 "id": f"ent{entity_id}",
@@ -41,10 +40,10 @@ class MedicalReportTagger:
                 "to_name": "text",
                 "type": "labels"
             })
+            entity_id += 1
         # Process uncertainty terms
         for match in self.uncertainty_pattern.finditer(text):
             start, end = match.span()
-            entity_id += 1
             results.append({
                 "value": {"start": start, "end": end + 1, "labels": ["UNC"]},
                 "id": f"ent{entity_id}",
@@ -52,9 +51,9 @@ class MedicalReportTagger:
                 "to_name": "text",
                 "type": "labels"
             })
+            entity_id += 1
             # Determine the scope of uncertainty
             scope_start, scope_end = self.find_uncertainty_scope(text, start, end)
-            entity_id += 1
             results.append({
                 "value": {"start": scope_start, "end": scope_end, "labels": ["USCO"]},
                 "id": f"ent{entity_id}",
@@ -62,7 +61,7 @@ class MedicalReportTagger:
                 "to_name": "text",
                 "type": "labels"
             })
-
+            entity_id += 1
         # Process medical terms
         for match in self.medical_pattern.finditer(text):
             start, end = match.span()
