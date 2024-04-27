@@ -18,9 +18,7 @@ class MedicalReportTagger:
         # Initialize results list
         results = []
         # Initialize counters for each type of entity
-        negation_id = 0
-        scope_id = 0
-        uncertainty_id = 0
+        id = 0
         
         # Process negation terms
         for match in self.negation_pattern.finditer(text):
@@ -28,24 +26,24 @@ class MedicalReportTagger:
             # Create a result for the negation term
             results.append({
                 "value": {"start": start, "end": end + 1, "labels": ["NEG"]},
-                "id": f"neg{negation_id}",
+                "id": f"ent{id}",
                 "from_name": "label",
                 "to_name": "text",
                 "type": "labels"
             })
-            negation_id += 1  # Increment the negation ID counter
+            id += 1  # Increment the negation ID counter
             
             # Determine the scope of negation
             scope_start, scope_end = self.find_negation_scope(text, start, end)
             # Create a result for the scope of negation
             results.append({
                 "value": {"start": end+1, "end": scope_end+1, "labels": ["NSCO"]},
-                "id": f"scope{scope_id}",
+                "id": f"ent{id}",
                 "from_name": "label",
                 "to_name": "text",
                 "type": "labels"
             })
-            scope_id += 1  # Increment the scope ID counter
+            id += 1  # Increment the scope ID counter
     
         # Process uncertainty terms
         for match in self.uncertainty_pattern.finditer(text):
@@ -53,24 +51,24 @@ class MedicalReportTagger:
             # Create a result for the uncertainty term
             results.append({
                 "value": {"start": start, "end": end, "labels": ["UNC"]},
-                "id": f"unc{uncertainty_id}",
+                "id": f"ent{id}",
                 "from_name": "label",
                 "to_name": "text",
                 "type": "labels"
             })
-            uncertainty_id += 1  # Increment the uncertainty ID counter
+            id += 1  # Increment the uncertainty ID counter
             
             # Determine the scope of uncertainty
             scope_start, scope_end = self.find_uncertainty_scope(text, start, end)
             # Create a result for the scope of uncertainty
             results.append({
                 "value": {"start": end+1, "end": scope_end+1, "labels": ["USCO"]},
-                "id": f"scope{scope_id}",
+                "id": f"ent{id}",
                 "from_name": "label",
                 "to_name": "text",
                 "type": "labels"
             })
-            scope_id += 1  # Increment the scope ID counter
+            id += 1  # Increment the scope ID counter
     
             # Process medical terms    
         return results
