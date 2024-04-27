@@ -60,7 +60,7 @@ class MedicalReportTagger:
                     "value": {"start": start+1, "end": scope_end+1, "labels": ["USCO"]},
                 })
                 id += 1  # Increment the scope ID counter
-            else
+            else:
                 results.append({
                     "value": {"start": scope_start, "end": scope_end+1, "labels": ["USCO"]},
                 })
