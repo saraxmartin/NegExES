@@ -73,16 +73,16 @@ class MedicalReportTagger:
             scope_id += 1  # Increment the scope ID counter
     
             # Process medical terms
-            for match in self.medical_pattern.finditer(text):
-                start, end = match.span()
-                results.append({
-                    "value": {"start": start, "end": end, "labels": ["UMLS"]},
-                    "id": f"ent{entity_id}",
-                    "from_name": "label",
-                    "to_name": "text",
-                    "type": "labels"
-                })
-        
+        for match in self.medical_pattern.finditer(text):
+            start, end = match.span()
+            results.append({
+                "value": {"start": start, "end": end, "labels": ["UMLS"]},
+                "id": f"ent{entity_id}",
+                "from_name": "label",
+                "to_name": "text",
+                "type": "labels"
+            })
+    
         return results
 
 
