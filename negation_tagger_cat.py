@@ -1,7 +1,7 @@
 import re
 
 class MedicalReportTagger:
-    def __init__(self, negation_terms, uncertainty_terms):
+    def __init__(self, negation_terms, uncertainty_terms, conjunctions):
         # Define negation and uncertainty terms in Catalan
         self.negation_terms = negation_terms
         self.uncertainty_terms = uncertainty_terms
