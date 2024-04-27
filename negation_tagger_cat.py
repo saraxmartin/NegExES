@@ -1,23 +1,10 @@
 import re
 
 class MedicalReportTagger:
-    def __init__(self):
+    def __init__(self, negation_terms, uncertainty_terms):
         # Define negation and uncertainty terms in Catalan
-        self.negation_terms = [
-            r"\bno\b",  # No
-            r"\bsin\b",  # Without
-            r"\bningun\b",  # None
-            r"\bnegar\b",  # Deny
-            r"\bdescartar\b",  # Discard
-            # Add more Catalan negation terms as needed
-        ]
-        self.uncertainty_terms = [
-            r"\bposible\b",  # Possible
-            r"\bprobablemente\b",  # Probably
-            r"\bpuede ser\b",  # Maybe
-            r"\bparece\b",  # Seems
-            # Add more Catalan uncertainty terms as needed
-        ]
+        self.negation_terms = negation_terms
+        self.uncertainty_terms = uncertainty_terms
         
         # Define patterns for negation and uncertainty using the terms
         self.negation_pattern = re.compile('|'.join(self.negation_terms), re.IGNORECASE)
