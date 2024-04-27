@@ -14,47 +14,71 @@ class MedicalReportTagger:
         self.conj_pattern = re.compile('|'.join(self.conjunctions), re.IGNORECASE)
         self.medical_pattern = re.compile('|'.join(self.medical_terms), re.IGNORECASE)
 
-    
     def tag_negation_and_uncertainty(self, text):
         # Initialize results list
         results = []
+        entity_id = 1  # Initialize entity ID counter
         
         # Process negation terms
         for match in self.negation_pattern.finditer(text):
             start, end = match.span()
+            # Create a result with the specified fields
             results.append({
                 "value": {"start": start, "end": end, "labels": ["NEG"]},
+                "id": f"ent{entity_id}",
+                "from_name": "label",
+                "to_name": "text",
                 "type": "labels"
             })
+            # Increment the entity ID counter
+            entity_id += 1
             # Determine the scope of negation
             scope_start, scope_end = self.find_negation_scope(text, start, end)
             results.append({
                 "value": {"start": scope_start, "end": scope_end, "labels": ["NSCO"]},
+                "id": f"ent{entity_id}",
+                "from_name": "label",
+                "to_name": "text",
                 "type": "labels"
             })
+            entity_id += 1
 
         # Process uncertainty terms
         for match in self.uncertainty_pattern.finditer(text):
             start, end = match.span()
             results.append({
-                "value": {"start": start, "end": end+1, "labels": ["UNC"]},
+                "value": {"start": start, "end": end + 1, "labels": ["UNC"]},
+                "id": f"ent{entity_id}",
+                "from_name": "label",
+                "to_name": "text",
                 "type": "labels"
             })
+            entity_id += 1
             # Determine the scope of uncertainty
             scope_start, scope_end = self.find_uncertainty_scope(text, start, end)
             results.append({
                 "value": {"start": scope_start, "end": scope_end, "labels": ["USCO"]},
+                "id": f"ent{entity_id}",
+                "from_name": "label",
+                "to_name": "text",
                 "type": "labels"
             })
+            entity_id += 1
+
         # Process medical terms
         for match in self.medical_pattern.finditer(text):
             start, end = match.span()
             results.append({
                 "value": {"start": start, "end": end, "labels": ["UMLS"]},
+                "id": f"ent{entity_id}",
+                "from_name": "label",
+                "to_name": "text",
                 "type": "labels"
             })
-
+            entity_id += 1
+        
         return results
+
 
     # def tag_medical_terms(self, text):
     #     # Initialize results list
