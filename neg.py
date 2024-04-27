@@ -26,10 +26,6 @@ class MedicalReportTagger:
             # Create a result for the negation term
             results.append({
                 "value": {"start": start, "end": end + 1, "labels": ["NEG"]},
-                "id": f"ent{id}",
-                "from_name": "label",
-                "to_name": "text",
-                "type": "labels"
             })
             id += 1  # Increment the negation ID counter
             
@@ -38,10 +34,6 @@ class MedicalReportTagger:
             # Create a result for the scope of negation
             results.append({
                 "value": {"start": end+1, "end": scope_end+1, "labels": ["NSCO"]},
-                "id": f"ent{id}",
-                "from_name": "label",
-                "to_name": "text",
-                "type": "labels"
             })
             id += 1  # Increment the scope ID counter
     
@@ -51,10 +43,6 @@ class MedicalReportTagger:
             # Create a result for the uncertainty term
             results.append({
                 "value": {"start": start, "end": end, "labels": ["UNC"]},
-                "id": f"ent{id}",
-                "from_name": "label",
-                "to_name": "text",
-                "type": "labels"
             })
             id += 1  # Increment the uncertainty ID counter
             
@@ -63,10 +51,6 @@ class MedicalReportTagger:
             # Create a result for the scope of uncertainty
             results.append({
                 "value": {"start": end+1, "end": scope_end+1, "labels": ["USCO"]},
-                "id": f"ent{id}",
-                "from_name": "label",
-                "to_name": "text",
-                "type": "labels"
             })
             id += 1  # Increment the scope ID counter
     
