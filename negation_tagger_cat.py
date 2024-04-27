@@ -10,7 +10,7 @@ class MedicalReportTagger:
         # Define patterns for negation and uncertainty using the terms
         self.negation_pattern = re.compile('|'.join(self.negation_terms), re.IGNORECASE)
         self.uncertainty_pattern = re.compile('|'.join(self.uncertainty_terms), re.IGNORECASE)
-        self.conjunctions_pattern = re.compile('|'.join(self.conjunctions), re.IGNORECASE)
+        self.conj_pattern = re.compile('|'.join(self.conjunctions), re.IGNORECASE)
 
     
     def tag_negation_and_uncertainty(self, text):
@@ -53,6 +53,14 @@ class MedicalReportTagger:
         # This can be refined to improve accuracy
         scope_start = self.find_sentence_start(text, start)
         scope_end = self.find_sentence_end(text, end)
+        
+        scope_text = text[scope_start:scope_end]
+        
+        # Search for conjunctions within the scope text
+        conj_matches = [(match.start() + scope_start, match.end() + scope_start) for match in self.conj_pattern.finditer(scope_text)]
+        if len(conj_matches)>0:
+            start_first_conj = conj_matches[0][0]
+            scope_end = start_first_conj-1
         return scope_start, scope_end
     
     def find_uncertainty_scope(self, text, start, end):
@@ -65,13 +73,13 @@ class MedicalReportTagger:
 
     def find_sentence_start(self, text, index):
         # Find the start of the sentence containing the index
-        while index > 0 and text[index] not in ".?!" and text[index] not in self.conjunctions:
+        while index > 0 and text[index] not in ".?!:":
             index -= 1
         return index + 1
     
     def find_sentence_end(self, text, index):
         # Find the end of the sentence containing the index
-        while index < len(text) and text[index] not in ".?!" and text[index] not in self.conjunctions:
+        while index < len(text) and text[index] not in ".?!:":
             index += 1
         return index
 
