@@ -32,7 +32,7 @@ class MedicalReportTagger:
             # Determine the scope of negation
             scope_start, scope_end = self.find_negation_scope(text, start, end)
             # Create a result for the scope of negation
-            if scope_start == start+1:
+            if scope_start+1 == start:
                 results.append({
                     "value": {"start": end+1, "end": scope_end+1, "labels": ["NSCO"]},
                 })
@@ -55,7 +55,7 @@ class MedicalReportTagger:
             # Determine the scope of uncertainty
             scope_start, scope_end = self.find_uncertainty_scope(text, start, end)
             # Create a result for the scope of uncertainty
-            if start+1 == scope_start:
+            if start == scope_start+1:
                 results.append({
                     "value": {"start": end+1, "end": scope_end+1, "labels": ["USCO"]},
                 })
