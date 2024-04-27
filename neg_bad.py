@@ -34,7 +34,7 @@ class MedicalReportTagger:
             # Create a result for the scope of negation
             if scope_start == start+1:
                 results.append({
-                    "value": {"start": start+1, "end": scope_end+1, "labels": ["NSCO"]},
+                    "value": {"start": end+1, "end": scope_end+1, "labels": ["NSCO"]},
                 })
                 id += 1  # Increment the scope ID counter
             else:
@@ -57,7 +57,7 @@ class MedicalReportTagger:
             # Create a result for the scope of uncertainty
             if start+1 == scope_start:
                 results.append({
-                    "value": {"start": start+1, "end": scope_end+1, "labels": ["USCO"]},
+                    "value": {"start": end+1, "end": scope_end+1, "labels": ["USCO"]},
                 })
                 id += 1  # Increment the scope ID counter
             else:
