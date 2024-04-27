@@ -32,10 +32,16 @@ class MedicalReportTagger:
             # Determine the scope of negation
             scope_start, scope_end = self.find_negation_scope(text, start, end)
             # Create a result for the scope of negation
-            results.append({
-                "value": {"start": scope_start, "end": scope_end+1, "labels": ["NSCO"]},
-            })
-            id += 1  # Increment the scope ID counter
+            if scope_start == start+1:
+                results.append({
+                    "value": {"start": start+1, "end": scope_end+1, "labels": ["NSCO"]},
+                })
+                id += 1  # Increment the scope ID counter
+            else:
+                results.append({
+                    "value": {"start": scope_start, "end": scope_end+1, "labels": ["NSCO"]},
+                })
+                id += 1  # Increment the scope ID counter
     
         # Process uncertainty terms
         for match in self.uncertainty_pattern.finditer(text):
@@ -49,10 +55,16 @@ class MedicalReportTagger:
             # Determine the scope of uncertainty
             scope_start, scope_end = self.find_uncertainty_scope(text, start, end)
             # Create a result for the scope of uncertainty
-            results.append({
-                "value": {"start": scope_start, "end": scope_end+1, "labels": ["USCO"]},
-            })
-            id += 1  # Increment the scope ID counter
+            if start+1 == scope_start:
+                results.append({
+                    "value": {"start": start+1, "end": scope_end+1, "labels": ["USCO"]},
+                })
+                id += 1  # Increment the scope ID counter
+            else
+                results.append({
+                    "value": {"start": scope_start, "end": scope_end+1, "labels": ["USCO"]},
+                })
+                id += 1  # Increment the scope ID counter
     
             # Process medical terms    
         return results
