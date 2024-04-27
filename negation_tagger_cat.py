@@ -1,16 +1,18 @@
 import re
 
 class MedicalReportTagger:
-    def __init__(self, negation_terms, uncertainty_terms, conjunctions):
+    def __init__(self, negation_terms, uncertainty_terms, conjunctions, medical_terms):
         # Define negation and uncertainty terms in Catalan
         self.negation_terms = negation_terms
         self.uncertainty_terms = uncertainty_terms
         self.conjunctions = conjunctions
+        self.medical_terms = medical_terms
         
         # Define patterns for negation and uncertainty using the terms
         self.negation_pattern = re.compile('|'.join(self.negation_terms), re.IGNORECASE)
         self.uncertainty_pattern = re.compile('|'.join(self.uncertainty_terms), re.IGNORECASE)
         self.conj_pattern = re.compile('|'.join(self.conjunctions), re.IGNORECASE)
+        self.medical_pattern = re.compile('|'.join(self.medical_terms), re.IGNORECASE)
 
     
     def tag_negation_and_uncertainty(self, text):
@@ -46,6 +48,19 @@ class MedicalReportTagger:
             })
 
         return results
+
+    def tag_medical_terms(self, text):
+        # Initialize results list
+        results = []
+        
+        # Process medical terms
+        for match in self.medical_pattern.finditer(text):
+            start, end = match.span()
+            results.append({
+                "value": {"start": start, "end": end, "labels": ["UMLS"]},
+                "type": "labels"
+            })
+        return results
     
     def find_negation_scope(self, text, start, end):
         # Identify the scope of negation
@@ -73,13 +88,13 @@ class MedicalReportTagger:
 
     def find_sentence_start(self, text, index):
         # Find the start of the sentence containing the index
-        while index > 0 and text[index] not in ".?!:":
+        while index > 0 and text[index] not in ",.?!:":
             index -= 1
         return index + 1
     
     def find_sentence_end(self, text, index):
         # Find the end of the sentence containing the index
-        while index < len(text) and text[index] not in ".?!:":
+        while index < len(text) and text[index] not in ",.?!:":
             index += 1
         return index
 
