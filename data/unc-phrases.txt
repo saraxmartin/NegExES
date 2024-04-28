@@ -1,0 +1,207 @@
+:=======================================================================
+:= uncPhrases
+:=======================================================================
+posiblemente
+probablemente
+quizás
+tal vez
+puede
+podría
+incierto
+dudoso
+ambiguo
+inestable
+indefinido
+indeterminado
+impreciso
+eventual
+tentativo
+sugerido
+condicional
+parcialmente
+intermitente
+variable
+indistinto
+sospechoso
+incompleto
+pendiente
+en proceso
+posible
+estimado
+cuestionable
+no confirmado
+provisional
+ambivalente
+cambiante
+indeterminado
+por determinar
+en observación
+sujeto a revisión
+pendiente de resultados
+por comprobar
+pendiente de confirmación
+en espera de resultados
+en estudio
+necesita confirmación
+pendiente de evaluación
+irresoluto
+desconocido
+por confirmar
+sin diagnóstico
+en proceso de evaluación
+inconcluso
+a determinar
+en curso
+en espera de confirmación
+sin constancia
+a criterio médico
+en análisis
+falta de información
+en espera de valoración
+no específico
+en consideración
+en estudio preliminar
+bajo estudio
+sin validar
+sujeto a interpretación
+confuso
+indeciso
+en espera de diagnósticos
+no concluyente
+sujeto a cambios
+a discreción médica
+en estado preliminar
+sujeto a ajustes
+necesita más pruebas
+en espera de pruebas
+en proceso de diagnóstico
+inconcluso
+sujeto a interpretación
+en espera de aprobación
+por verificar
+necesita más datos clínicos
+no definitivo
+en espera de consulta
+sin diagnóstico claro
+a discreción médica
+en etapa de observación
+en espera de decisiones
+en progreso
+por analizar
+bajo observación
+necesita confirmación
+en espera de determinaciones
+en espera de pruebas
+en estado de incertidumbre
+sujeto a dudas
+no resuelto
+falta de documentación
+en proceso de valoración
+en espera de valoración
+en estado de indeterminación
+en espera de decisiones
+sin diagnóstico definitivo
+en etapa preliminar
+necesita confirmación
+en espera de conclusiones
+possiblement
+probablement
+potser
+incert
+dubtós
+ambigu
+inestable
+indefinit
+indeterminat
+imprecís
+eventual
+tentatiu
+suggerit
+condicional
+parcial
+intermitent
+variable
+alternatiu
+indistint
+inexplicable
+sospitós
+incomplet
+pendent
+en procés
+possible
+estimat
+qüestionable
+no confirmat
+provisional
+ambivalent
+canviant
+irresolut
+per determinar
+en observació
+sotmès a revisió
+pendent de resultats
+per verificar
+pendent de confirmació
+en espera de resultats
+en estudi
+necessita confirmació
+pendent d'avaluació
+difús
+desconegut
+per confirmar
+sense diagnòstic
+en procés d'avaluació
+inconcloent
+per decidir
+en curs
+en espera de confirmació
+sense constància
+a criteri mèdic
+en anàlisi
+falta d'informació
+en espera de valoració
+no específic
+en consideració
+en estudi preliminar
+sota estudi
+sense validar
+sotmès a interpretació
+confús
+indecis
+en espera de diagnòstics
+no concloent
+sotmès a canvis
+a discreció mèdica
+en estat preliminar
+sotmès a ajustaments
+necessita més proves
+en espera de proves
+en procés de diagnòstic
+indefinit
+en espera d'aprovació
+per verificar
+necessita més dades clíniques
+no definitiu
+en espera de consulta
+sense diagnòstic clar
+a discreció mèdica
+en etapa d'observació
+en espera de decisions
+en progrés
+per analitzar
+sota observació
+necessita confirmació
+en espera de determinacions
+en espera de proves
+en estat d'incertesa
+sotmès a dubtes
+no resolt
+falta de documentació
+en procés de valoració
+en espera de valoració
+en estat d'indeterminació
+en espera de decisions
+sense diagnòstic definitiu
+en etapa preliminar
+necessita confirmació
+en espera de conclusions
