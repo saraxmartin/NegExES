@@ -93,5 +93,3 @@ class MedicalReportTagger:
             index += 1
         return index
 
-
-    print(results)
